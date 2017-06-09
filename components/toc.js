@@ -2,13 +2,13 @@ const List = props =>
   <ol className="toc-list">
     {props.children}
     <style jsx>{`
-.toc-list {
-  list-style: none;
-  width: 60%;
-  min-width: 700px;
-  margin: 0 auto;
-}
-`}</style>
+      .toc-list {
+        list-style: none;
+        width: 60%;
+        min-width: 700px;
+        margin: 0 auto;
+      }
+    `}</style>
   </ol>
 
 const Item = props =>
@@ -30,7 +30,7 @@ const Item = props =>
       }
       .toc-line {
         display: flex;
-        align-items: center; 
+        align-items: center;
       }
       .toc-title {
         flex: 1;
@@ -62,7 +62,7 @@ const Total = props =>
       }
       .toc-line {
         display: flex;
-        align-items: center; 
+        align-items: center;
       }
       .toc-total {
         flex: 1;

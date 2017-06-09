@@ -24,36 +24,36 @@ export default _ =>
     </Head>
     <Container>
       <Header />
-  <Section>
-    <SectionHeader>Things you'll learn</SectionHeader>
-    <YoullLearn />
-  </Section>
+      <Section>
+        <SectionHeader>Things you'll learn</SectionHeader>
+        <YoullLearn />
+      </Section>
 
-  <Section>
-  <SectionHeader>Catch a preview</SectionHeader>
-  <Preview />
-  </Section>
+      <Section>
+        <SectionHeader>Catch a preview</SectionHeader>
+        <Preview />
+      </Section>
 
-  <Section>
-  <SectionHeader>Watch the course</SectionHeader>
-  <Watch />
-  </Section>
+      <Section>
+        <SectionHeader>Watch the course</SectionHeader>
+        <Watch />
+      </Section>
 
-  <Section>
-  <SectionHeader>Easy to get started</SectionHeader>
-  <Start />
-  </Section>
+      <Section>
+        <SectionHeader>Easy to get started</SectionHeader>
+        <Start />
+      </Section>
 
-  <Section>
-  <SectionHeader>Awesome APIs to try</SectionHeader>
-  <Api />
-  </Section>
+      <Section>
+        <SectionHeader>Awesome APIs to try</SectionHeader>
+        <Api />
+      </Section>
 
-  <Section>
-  <SectionHeader>Join the fun</SectionHeader>
-  <Join />
-  </Section>
+      <Section>
+        <SectionHeader>Join the fun</SectionHeader>
+        <Join />
+      </Section>
 
-  <Footer />
+      <Footer />
     </Container>
   </div>
