@@ -21,6 +21,10 @@ export default _ =>
       <meta name="HandheldFriendly" content="True" />
       <meta name="MobileOptimized" content="320" />
       <meta name="viewport" content="width=device-width, initial-scale=1" />
+      <link
+        href="https://fonts.googleapis.com/css?family=Raleway:100,300"
+        rel="stylesheet"
+      />
     </Head>
     <Container>
       <Header />
