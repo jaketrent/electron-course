@@ -1,5 +1,8 @@
+import MerryMedlies from './merry-medlies'
+
 export default props =>
   <header className="pg-header">
+    <MerryMedlies />
     <h1 className="pg-title">
       <a href="https://app.pluralsight.com/library/courses/electron-fundamentals/table-of-contents" className="pg-title-link">Learn Electron</a>
     </h1>
@@ -11,9 +14,12 @@ export default props =>
   flex-direction: column;
   justify-content: center;
   text-align: center;
-  background: url(/static/img/merrymedlies.png) center no-repeat;
+  overflow: hidden;
+  position: relative;
+  padding: 240px 0;
 }
 .pg-title {
+  position: relative;
   font-size: 70px;
 }
 .pg-title-link {
@@ -24,6 +30,7 @@ export default props =>
   color: inherit;
 }
 .pg-subtitle {
+  position: relative;
   margin-top: 20px;
 }
 `}</style>
