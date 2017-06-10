@@ -1,5 +1,7 @@
 import MerryMedlies from './merry-medlies'
 
+const now = _ => new Date().getFullYear()
+
 export default _ =>
   <footer className="footer">
     <div className="section-inner">
@@ -19,7 +21,8 @@ export default _ =>
         </div>
         <div className="footer-col footer-col__copy">
           <div className="footer-copy">
-            Course &copy; 2016 Pluralsight; this page &copy; 2016 Jake Trent{' '}
+            Course &copy; {now()} Pluralsight; this page &copy; {now()} Jake
+            Trent{' '}
             <br />
             This content uses affiliate links.
           </div>
@@ -75,7 +78,7 @@ export default _ =>
       }
       .footer-copy {
         font-size: .6em;
-        line-height: 1em;
+        line-height: 1.125em;
       }
     `}</style>
   </footer>
