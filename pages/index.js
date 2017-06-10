@@ -17,6 +17,7 @@ import YoullLearn from '../components/youll-learn'
 export default _ =>
   <div>
     <GlobalStyles />
+
     <Head>
       <meta name="HandheldFriendly" content="True" />
       <meta name="MobileOptimized" content="320" />
@@ -26,8 +27,11 @@ export default _ =>
         rel="stylesheet"
       />
     </Head>
+
     <Container>
+
       <Header />
+
       <Section>
         <SectionHeader>Things you'll learn</SectionHeader>
         <YoullLearn />
@@ -59,5 +63,6 @@ export default _ =>
       </Section>
 
       <Footer />
+
     </Container>
   </div>

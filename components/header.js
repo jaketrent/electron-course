@@ -2,7 +2,9 @@ import MerryMedlies from './merry-medlies'
 
 export default props =>
   <header className="pg-header">
-    <MerryMedlies />
+    <div className="pg-header__merry">
+      <MerryMedlies />
+    </div>
     <h1 className="pg-title">
       <a
         href="https://app.pluralsight.com/library/courses/electron-fundamentals/table-of-contents"
@@ -24,6 +26,14 @@ export default props =>
         overflow: hidden;
         position: relative;
         padding: 240px 0;
+      }
+      .pg-header__merry {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        height: 1300px;
+        width: 1300px;
       }
       .pg-title {
         position: relative;

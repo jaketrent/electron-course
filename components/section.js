@@ -1,5 +1,5 @@
 export default props =>
-  <section className={`section ${props.className}`}>
+  <section className={`${props.className ? props.className + ' ' : ''}section`}>
     <div className="section-inner">
       {props.children}
     </div>

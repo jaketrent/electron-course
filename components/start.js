@@ -7,7 +7,7 @@ export default _ =>
       stack. Write JS in Node style and write UIs in HTML and CSS.
     </p>
     <p className="start-desc">
-      Jump right into coding the basics in the
+      Jump right into coding the basics in the&nbsp;
       <a href="https://app.pluralsight.com/player?course=electron-fundamentals&author=jake-trent&name=electron-fundamentals-m2&clip=0&mode=live">
         second module
       </a>.

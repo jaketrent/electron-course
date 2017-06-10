@@ -18,17 +18,15 @@ export default _ =>
       </div>
     </div>
     <style jsx>{`
-      .signup {
-        width: 700px;
-      }
       .signup-body {
         display: flex;
+        width: 700px;
+        margin: 0 auto;
       }
       .signup-desc {
         flex: 2;
       }
-      g
-.signup-links {
+      .signup-links {
         flex: 1;
         padding-left: 30px;
         display: flex;

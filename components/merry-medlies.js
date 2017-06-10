@@ -1,6 +1,6 @@
-export default _ =>
+export default props =>
   <svg
-    className="merry"
+    className={`${props.className ? props.className + ' ' : ''}merry`}
     viewBox="0 0 1300 1300"
     version="1.1"
     xmlns="http://www.w3.org/2000/svg"
@@ -152,10 +152,8 @@ export default _ =>
     </defs>
     <style jsx>{`
       .merry {
-        position: absolute;
-        top: 50%;
-        left: 50%;
-        transform: translate(-50%, -50%);
+        height: 100%;
+        width: 100%;
       }
     `}</style>
   </svg>

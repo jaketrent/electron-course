@@ -1,6 +1,11 @@
+import MerryMedlies from './merry-medlies'
+
 export default _ =>
   <footer className="footer">
     <div className="section-inner">
+      <div className="footer__merry">
+        <MerryMedlies />
+      </div>
       <div className="footer-body">
         <div className="footer-col">
           <p className="footer-invite">
@@ -23,9 +28,19 @@ export default _ =>
     </div>
     <style jsx>{`
       .footer {
-        background: url(/static/img/merrymedlies.png) top center no-repeat;
+        position: relative;
+        overflow: hidden;
+      }
+      .footer__merry {
+        position: absolute;
+        top: 0;
+        left: 50%;
+        transform: translateX(-50%);
+        height: 1300px;
+        width: 1300px;
       }
       .footer-body {
+        position: relative;
         display: flex;
         width: 80%;
         margin: 0 auto;
