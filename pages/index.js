@@ -19,6 +19,7 @@ export default _ =>
     <GlobalStyles />
 
     <Head>
+      <link rel="icon" type="image/svg+xml" href="/static/img/favicon.svg" />
       <meta name="HandheldFriendly" content="True" />
       <meta name="MobileOptimized" content="320" />
       <meta name="viewport" content="width=device-width, initial-scale=1" />
