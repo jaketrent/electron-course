@@ -6,13 +6,13 @@ import Container from '../components/container'
 import Footer from '../components/footer'
 import GlobalStyles from '../components/global-styles'
 import Header from '../components/header'
+import Learn from '../components/learn'
 import Join from '../components/join'
 import Preview from '../components/preview'
 import Section from '../components/section'
 import SectionHeader from '../components/section-header'
 import Start from '../components/start'
 import Watch from '../components/watch'
-import YoullLearn from '../components/youll-learn'
 
 export default _ =>
   <div>
@@ -34,7 +34,7 @@ export default _ =>
 
       <Section>
         <SectionHeader>Things you'll learn</SectionHeader>
-        <YoullLearn />
+        <Learn />
       </Section>
 
       <Section>
