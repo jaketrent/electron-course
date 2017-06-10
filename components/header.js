@@ -10,7 +10,7 @@ export default props =>
         href="https://app.pluralsight.com/library/courses/electron-fundamentals/table-of-contents"
         className="pg-title-link"
       >
-        Learn Electron
+        Electron Fundamentals
       </a>
     </h1>
     <h2 className="pg-subtitle">
