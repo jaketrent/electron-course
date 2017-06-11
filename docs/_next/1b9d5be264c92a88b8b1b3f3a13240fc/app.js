@@ -7829,8 +7829,8 @@ webpackJsonp(
             ),
             a.default.createElement('link', {
               rel: 'shortcut icon',
-              type: 'image/svg+xml',
-              href: '/static/img/favicon.svg'
+              type: 'image/png',
+              href: '/static/img/favicon.png'
             }),
             a.default.createElement('meta', {
               name: 'author',
