@@ -24,8 +24,8 @@ export default _ =>
       <title>Electron Course | Jake Trent</title>
       <link
         rel="shortcut icon"
-        type="image/svg+xml"
-        href="/static/img/favicon.svg"
+        type="image/png"
+        href="/static/img/favicon.png"
       />
 
       <meta
