@@ -22,7 +22,11 @@ export default _ =>
 
     <Head>
       <title>Electron Course | Jake Trent</title>
-      <link rel="icon" type="image/svg+xml" href="/static/img/favicon.svg" />
+      <link
+        rel="shortcut icon"
+        type="image/svg+xml"
+        href="/static/img/favicon.svg"
+      />
 
       <meta
         name="author"
