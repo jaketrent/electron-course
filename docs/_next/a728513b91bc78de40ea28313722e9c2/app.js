@@ -7810,7 +7810,10 @@ webpackJsonp(
         O = n(176),
         N = r(O),
         S = n(178),
-        M = r(S)
+        M = r(S),
+        A = function(e) {
+          return new Date().getFullYear()
+        }
       t.default = function(e) {
         return a.default.createElement(
           'div',
@@ -7819,10 +7822,68 @@ webpackJsonp(
           a.default.createElement(
             u.default,
             null,
+            a.default.createElement(
+              'title',
+              null,
+              'Electron Course | Jake Trent'
+            ),
             a.default.createElement('link', {
-              rel: 'icon',
+              rel: 'shortcut icon',
               type: 'image/svg+xml',
               href: '/static/img/favicon.svg'
+            }),
+            a.default.createElement('meta', {
+              name: 'author',
+              content: 'https://plus.google.com/115032056022257436849'
+            }),
+            a.default.createElement('meta', {
+              name: 'description',
+              content: 'Learn Electron in this project-based course.'
+            }),
+            a.default.createElement('meta', {
+              name: 'keywords',
+              content:
+                'electron, electron.js, native desktop, javascript to native, learn electron, electron lesson, electron course'
+            }),
+            a.default.createElement('meta', {
+              name: 'copyright',
+              content: A() + ' Jake Trent'
+            }),
+            a.default.createElement('meta', {
+              property: 'og:title',
+              content: 'Electron Course'
+            }),
+            a.default.createElement('meta', {
+              property: 'og:type',
+              content: 'article'
+            }),
+            a.default.createElement('meta', {
+              property: 'og:url',
+              content: 'https://electroncourse.com'
+            }),
+            a.default.createElement('meta', {
+              property: 'og:description',
+              content: 'Learn Electron in this project-based course.'
+            }),
+            a.default.createElement('meta', {
+              name: 'twitter:card',
+              content: 'summary'
+            }),
+            a.default.createElement('meta', {
+              name: 'twitter:title',
+              content: 'Learn Electron'
+            }),
+            a.default.createElement('meta', {
+              name: 'twitter:description',
+              content: 'Learn Electron in this project-based course.'
+            }),
+            a.default.createElement('meta', {
+              name: 'twitter:site',
+              content: '@jaketrent'
+            }),
+            a.default.createElement('meta', {
+              name: 'twitter:creator',
+              content: '@jaketrent'
             }),
             a.default.createElement('meta', {
               name: 'HandheldFriendly',
