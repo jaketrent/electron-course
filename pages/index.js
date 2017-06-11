@@ -14,15 +14,51 @@ import SectionHeader from '../components/section-header'
 import Start from '../components/start'
 import Watch from '../components/watch'
 
+const now = _ => new Date().getFullYear()
+
 export default _ =>
   <div>
     <GlobalStyles />
 
     <Head>
+      <title>Electron Course | Jake Trent</title>
       <link rel="icon" type="image/svg+xml" href="/static/img/favicon.svg" />
+
+      <meta
+        name="author"
+        content="https://plus.google.com/115032056022257436849"
+      />
+      <meta
+        name="description"
+        content="Learn Electron in this project-based course."
+      />
+      <meta
+        name="keywords"
+        content="electron, electron.js, native desktop, javascript to native, learn electron, electron lesson, electron course"
+      />
+      <meta name="copyright" content={`${now()} Jake Trent`} />
+
+      <meta property="og:title" content="Electron Course" />
+      <meta property="og:type" content="article" />
+      <meta property="og:url" content="https://electroncourse.com" />
+      <meta
+        property="og:description"
+        content="Learn Electron in this project-based course."
+      />
+
+      <meta name="twitter:card" content="summary" />
+      <meta name="twitter:title" content="Learn Electron" />
+      <meta
+        name="twitter:description"
+        content="Learn Electron in this project-based course."
+      />
+      <meta name="twitter:site" content="@jaketrent" />
+      <meta name="twitter:creator" content="@jaketrent" />
+
       <meta name="HandheldFriendly" content="True" />
       <meta name="MobileOptimized" content="320" />
       <meta name="viewport" content="width=device-width, initial-scale=1" />
+
       <link
         href="https://fonts.googleapis.com/css?family=Raleway:100,300"
         rel="stylesheet"
