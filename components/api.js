@@ -1,6 +1,5 @@
 export default _ =>
   <div>
-
     <p className="api-desc">
       You'll get to make a number of small projects so you can try out
       some of the awesome APIs that Electron provides or supports. Each will
@@ -45,8 +44,8 @@ export default _ =>
         list-style: none;
       }
       .api-item {
-        margin: 20px 3vw;
-        padding: 20px 30px;
+        margin: 1em 1.25em;
+        padding: 1.25em 1.5em;
         background: #A88A05;
         text-align: center;
         border-radius: 3px;

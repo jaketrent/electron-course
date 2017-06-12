@@ -89,4 +89,9 @@ export default _ =>
       <SectionHeader>Easy to get started</SectionHeader>
       <Start />
     </Section>
+
+    <Section>
+      <SectionHeader>Awesome APIs to try</SectionHeader>
+      <Api />
+    </Section>
   </div>
