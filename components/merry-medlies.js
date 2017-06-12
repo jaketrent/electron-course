@@ -4,6 +4,7 @@ export default props =>
     viewBox="0 0 1300 1300"
     version="1.1"
     xmlns="http://www.w3.org/2000/svg"
+    aria-hidden="true"
   >
     <g id="merry-medlies" transform="matrix(1,0,0,1,-351.384,359.795)">
       <g transform="matrix(2.52705,0,0,2.52705,-1531.69,-422.941)">

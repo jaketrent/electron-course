@@ -65,10 +65,13 @@ export default props =>
       }
       @media screen and (min-width: 769px) {
         .header {
-          padding: 4em 0 4em 0;
+          padding: 4.5em 0 4.5em 0;
         }
         .header__merry {
           width: 120%;
+        }
+        .header__title {
+          font-size: 1.825em;
         }
       }
       @media screen and (min-width: 1441px) {

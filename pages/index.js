@@ -99,4 +99,6 @@ export default _ =>
       <SectionHeader>Join the fun</SectionHeader>
       <Join />
     </Section>
+
+    <Footer />
   </div>
