@@ -35,6 +35,9 @@ export default _ =>
     p {
       line-height: 30px;
     }
+    iframe {
+      max-width: 100%;
+    }
     @media screen and (min-width: 426px) {
     }
     @media screen and (min-width: 769px) {

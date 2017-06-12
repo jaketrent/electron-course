@@ -74,4 +74,9 @@ export default _ =>
       <SectionHeader>Things you'll learn</SectionHeader>
       <Learn />
     </Section>
+
+    <Section>
+      <SectionHeader>Catch a preview</SectionHeader>
+      <Preview />
+    </Section>
   </div>
