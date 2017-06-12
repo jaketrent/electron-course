@@ -17,27 +17,18 @@ export default _ =>
     </div>
     <style jsx>{`
       .fun-body {
-        display: flex;
-        align-items: center;
         margin: 0 auto;
-        width: 700px;
-      }
-      .fun-desc {
-        flex: 1;
-      }
-      .fun-links {
-        flex: 1;
-        padding-left: 20px;
+        font-size: 1.125rem;
       }
       .fun-link {
         display: block;
-        padding: 12px 22px;
+        padding: 0.875em 1.125em;
         background: linear-gradient(0deg, #D1591A, #e56a2c);
         border-radius: 3px;
-        margin: 0 0 8px 0;
+        margin: 0 0 0.5em 0;
         text-align: center;
         border: none;
-        font-size: 20px;
+        font-size: 1.125em;
       }
       .fun-meta {
         font-size: 14px;
@@ -47,6 +38,19 @@ export default _ =>
         color: #fff;
         background: #E56A2C;
         border: none;
+      }
+      @media screen and (min-width: 650px) {
+        .fun-body {
+          display: flex;
+          align-items: center;
+        }
+        .fun-desc {
+          flex: 1;
+        }
+        .fun-links {
+          flex: 1;
+          margin-left: 1em;
+        }
       }
     `}</style>
   </div>

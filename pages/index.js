@@ -79,4 +79,9 @@ export default _ =>
       <SectionHeader>Catch a preview</SectionHeader>
       <Preview />
     </Section>
+
+    <Section>
+      <SectionHeader>Watch the course</SectionHeader>
+      <Watch />
+    </Section>
   </div>
