@@ -94,4 +94,9 @@ export default _ =>
       <SectionHeader>Awesome APIs to try</SectionHeader>
       <Api />
     </Section>
+
+    <Section>
+      <SectionHeader>Join the fun</SectionHeader>
+      <Join />
+    </Section>
   </div>
