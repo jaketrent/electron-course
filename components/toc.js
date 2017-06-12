@@ -3,10 +3,8 @@ const List = props =>
     {props.children}
     <style jsx>{`
       .toc-list {
+        font-size: 1rem;
         list-style: none;
-        width: 60%;
-        min-width: 700px;
-        margin: 0 auto;
       }
     `}</style>
   </ol>
@@ -26,7 +24,7 @@ const Item = props =>
     </p>
     <style jsx>{`
       .toc-item {
-        margin-bottom: 40px;
+        margin-bottom: 2.5em;
       }
       .toc-line {
         display: flex;
@@ -34,16 +32,22 @@ const Item = props =>
       }
       .toc-title {
         flex: 1;
-        font-size: 30px;
+        font-size: 1.5em;
+        margin-right: 0.5em;
       }
       .toc-link {
         color: #0DB0C9;
       }
       .toc-len {
-        font-size: 20px;
+        font-size: 1.25em;
         font-weight: 100;
       }
       .toc-desc {
+      }
+      @media screen and (min-width: 769px) {
+        .toc-title {
+          font-size: 2em;
+        }
       }
     `}</style>
   </li>
@@ -58,7 +62,6 @@ const Total = props =>
     </div>
     <style jsx>{`
       .toc-item {
-        margin-bottom: 40px;
       }
       .toc-line {
         display: flex;
@@ -66,12 +69,12 @@ const Total = props =>
       }
       .toc-total {
         flex: 1;
-        font-size: 20px;
+        font-size: 1.25em;
         text-align: right;
-        padding-right: 30px;
+        padding-right: 1.125em;
       }
       .toc-len {
-        font-size: 20px;
+        font-size: 1.375em;
         font-weight: 100;
       }
     `}</style>

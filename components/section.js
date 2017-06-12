@@ -1,12 +1,20 @@
+import Spacer from './spacer'
+
 export default props =>
   <section className={`${props.className ? props.className + ' ' : ''}section`}>
-    <div className="section-inner">
+    <Spacer>
       {props.children}
-    </div>
+    </Spacer>
     <style jsx>{`
       .section {
+        padding: 3em 0;
+        max-width: 56em;
+        margin: 0 auto;
       }
-      .section-inner {
+      @media screen and (min-width: 769px) {
+        .section {
+          padding: 5em 0;
+        }
       }
     `}</style>
   </section>

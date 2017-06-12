@@ -52,18 +52,31 @@ export default _ =>
     </div>
     <style jsx>{`
       .learn {
-        position: relative;
+        display: flex;
+        flex-direction: column-reverse;
       }
       .learn__atom {
-        position: absolute;
-        left: -300px;
-        top: 50%;
-        height: 450px;
-        width: 450px;
-        transform: translateY(-50%);
+        height: 16em;
+        width: 16em;
+        margin: 0 auto;
       }
       .learn__toc {
-        position: relative;
+      }
+      @media screen and (min-width: 56em) {
+        .learn {
+          position: relative;
+        }
+        .learn__atom {
+          position: absolute;
+          left: -20em;
+          top: 50%;
+          height: 20em;
+          width: 20em;
+          transform: translateY(-50%);
+        }
+        .learn__toc {
+          position: relative;
+        }
       }
     `}</style>
   </div>

@@ -70,4 +70,8 @@ export default _ =>
 
     <Header />
 
+    <Section>
+      <SectionHeader>Things you'll learn</SectionHeader>
+      <Learn />
+    </Section>
   </div>
