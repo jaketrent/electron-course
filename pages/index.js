@@ -2,7 +2,6 @@ import Head from 'next/head'
 // TODO: head
 
 import Api from '../components/api'
-import Container from '../components/container'
 import Footer from '../components/footer'
 import GlobalStyles from '../components/global-styles'
 import Header from '../components/header'
@@ -69,41 +68,6 @@ export default _ =>
       />
     </Head>
 
-    <Container>
+    <Header />
 
-      <Header />
-
-      <Section>
-        <SectionHeader>Things you'll learn</SectionHeader>
-        <Learn />
-      </Section>
-
-      <Section>
-        <SectionHeader>Catch a preview</SectionHeader>
-        <Preview />
-      </Section>
-
-      <Section>
-        <SectionHeader>Watch the course</SectionHeader>
-        <Watch />
-      </Section>
-
-      <Section>
-        <SectionHeader>Easy to get started</SectionHeader>
-        <Start />
-      </Section>
-
-      <Section>
-        <SectionHeader>Awesome APIs to try</SectionHeader>
-        <Api />
-      </Section>
-
-      <Section>
-        <SectionHeader>Join the fun</SectionHeader>
-        <Join />
-      </Section>
-
-      <Footer />
-
-    </Container>
   </div>

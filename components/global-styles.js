@@ -4,12 +4,12 @@ export default _ =>
       box-sizing: border-box;
     }
     html, body {
+      margin: 0;
+      padding: 0;
       font-family: 'Raleway', sans-serif;
       background-color: #0F6402;
       color: #fff;
-      margin: 0;
-      padding: 0;
-      font-size: 18px; /* font-size: calc(1em + 1vw); */
+      font-size: 16px;
     }
     h1, h2, h3 {
       font-weight: 100;
@@ -34,5 +34,17 @@ export default _ =>
     }
     p {
       line-height: 30px;
+    }
+    @media screen and (min-width: 426px) {
+    }
+    @media screen and (min-width: 769px) {
+      html, body {
+        font-size: 18px;
+      }
+    }
+    @media screen and (min-width: 1441px) {
+      html, body {
+        font-size: 22px;
+      }
     }
   `}</style>
