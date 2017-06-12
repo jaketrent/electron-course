@@ -1,12 +1,14 @@
 export default _ =>
-  <div>
-    <pre><code className="start-code">npm install electron-prebuilt</code></pre>
+  <div className="start">
+    <pre>
+      <code className="start__code">npm install electron-prebuilt</code>
+    </pre>
     <p className="start-desc">
       If you know how to npm install, you know how to get started with
       Electron. You use the same tools you're used to in a web tech
       stack. Write JS in Node style and write UIs in HTML and CSS.
     </p>
-    <p className="start-desc">
+    <p>
       Jump right into coding the basics in the&nbsp;
       <a href="https://app.pluralsight.com/player?course=electron-fundamentals&author=jake-trent&name=electron-fundamentals-m2&clip=0&mode=live">
         second module
@@ -14,12 +16,11 @@ export default _ =>
     </p>
     <style jsx>{`
       .start {
-        width: 70vw;
       }
-      .start-code {
+      .start__code {
         display: block;
-        width: 70%;
-        margin: 0 auto 40px auto;
+        max-width: 100%;
+        margin: 0 auto 2.25em auto;
         font-family: Menlo,
           Monaco,
           "Andale Mono",
@@ -29,10 +30,14 @@ export default _ =>
         background: #353B3C;
         border: 3px solid white;
         border-radius: 3px;
-        padding: 20px 10vw;
+        padding: 1.125em;
         text-align: center;
+        overflow: hidden;
       }
-      .start-desc {
+      @media screen and (min-width: 769px) {
+        .start__code {
+          width: 70vw;
+        }
       }
     `}</style>
   </div>

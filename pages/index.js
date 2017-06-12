@@ -84,4 +84,9 @@ export default _ =>
       <SectionHeader>Watch the course</SectionHeader>
       <Watch />
     </Section>
+
+    <Section>
+      <SectionHeader>Easy to get started</SectionHeader>
+      <Start />
+    </Section>
   </div>
