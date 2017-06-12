@@ -7412,7 +7412,7 @@ webpackJsonp(
               'a',
               {
                 className: 'signup__link',
-                href: 'http://bit.ly/jaketrent-pluralsight',
+                href: 'http://bit.ly/pluralsight-create-the-future',
                 'data-jsx': 4106933391
               },
               'Try Pluralsight'
