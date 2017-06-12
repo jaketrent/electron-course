@@ -1554,7 +1554,7 @@ webpackJsonp(
       }).store = r
     },
     function(e, t, n) {
-      e.exports = n(91)
+      e.exports = n(92)
     },
     function(e, t) {
       var n = (e.exports = 'undefined' != typeof window && window.Math == Math
@@ -1621,7 +1621,7 @@ webpackJsonp(
     },
     function(e, t, n) {
       var r = n(10),
-        o = n(75),
+        o = n(76),
         a = n(58),
         i = Object.defineProperty
       t.f = n(9)
@@ -1646,7 +1646,7 @@ webpackJsonp(
     function(e, t, n) {
       'use strict'
       t.__esModule = !0
-      var r = n(69),
+      var r = n(70),
         o = (function(e) {
           return e && e.__esModule ? e : { default: e }
         })(r)
@@ -1746,7 +1746,7 @@ webpackJsonp(
     },
     function(e, t, n) {
       'use strict'
-      var r = n(130)(!0)
+      var r = n(131)(!0)
       n(51)(
         String,
         'String',
@@ -1764,7 +1764,7 @@ webpackJsonp(
       )
     },
     function(e, t, n) {
-      e.exports = { default: n(106), __esModule: !0 }
+      e.exports = { default: n(107), __esModule: !0 }
     },
     function(e, t, n) {
       'use strict'
@@ -1772,9 +1772,9 @@ webpackJsonp(
         return e && e.__esModule ? e : { default: e }
       }
       t.__esModule = !0
-      var o = n(96),
+      var o = n(97),
         a = r(o),
-        i = n(95),
+        i = n(96),
         u = r(i),
         s = n(44),
         l = r(s)
@@ -1817,7 +1817,7 @@ webpackJsonp(
       e.exports = {}
     },
     function(e, t, n) {
-      n(135)
+      n(136)
       for (
         var r = n(4),
           o = n(12),
@@ -1841,10 +1841,10 @@ webpackJsonp(
       }
     },
     function(e, t, n) {
-      e.exports = { default: n(100), __esModule: !0 }
+      e.exports = { default: n(101), __esModule: !0 }
     },
     function(e, t, n) {
-      e.exports = { default: n(108), __esModule: !0 }
+      e.exports = { default: n(109), __esModule: !0 }
     },
     function(e, t) {
       var n = {}.toString
@@ -1853,7 +1853,7 @@ webpackJsonp(
       }
     },
     function(e, t, n) {
-      var r = n(84),
+      var r = n(85),
         o = n(49)
       e.exports =
         Object.keys ||
@@ -1893,7 +1893,7 @@ webpackJsonp(
         return e && e.__esModule ? e : { default: e }
       }
       t.__esModule = !0
-      var o = n(94),
+      var o = n(95),
         a = r(o),
         i = n(23),
         u = r(i)
@@ -1968,8 +1968,8 @@ webpackJsonp(
     },
     function(e, t, n) {
       var r = n(11),
-        o = n(78),
-        a = n(76),
+        o = n(79),
+        a = n(77),
         i = n(10),
         u = n(37),
         s = n(61),
@@ -2006,7 +2006,7 @@ webpackJsonp(
     },
     function(e, t, n) {
       var r = n(10),
-        o = n(125),
+        o = n(126),
         a = n(49),
         i = n(55)('IE_PROTO'),
         u = function() {},
@@ -2015,7 +2015,7 @@ webpackJsonp(
             t = n(48)('iframe'),
             r = a.length
           for (
-            t.style.display = 'none', n(74).appendChild(t), t.src =
+            t.style.display = 'none', n(75).appendChild(t), t.src =
               'javascript:', e = t.contentWindow.document, e.open(), e.write(
               '<script>document.F=Object</script>'
             ), e.close(), s = e.F;
@@ -2062,10 +2062,10 @@ webpackJsonp(
     },
     function(e, t) {},
     function(e, t, n) {
-      e.exports = { default: n(103), __esModule: !0 }
+      e.exports = { default: n(104), __esModule: !0 }
     },
     function(e, t, n) {
-      e.exports = { default: n(109), __esModule: !0 }
+      e.exports = { default: n(110), __esModule: !0 }
     },
     function(e, t, n) {
       'use strict'
@@ -2125,9 +2125,9 @@ webpackJsonp(
         return e && e.__esModule ? e : { default: e }
       }
       t.__esModule = !0
-      var o = n(98),
+      var o = n(99),
         a = r(o),
-        i = n(97),
+        i = n(98),
         u = r(i),
         s = 'function' == typeof u.default && 'symbol' == typeof a.default
           ? function(e) {
@@ -2195,13 +2195,13 @@ webpackJsonp(
       'use strict'
       var r = n(34),
         o = n(5),
-        a = n(85),
+        a = n(86),
         i = n(12),
         u = n(15),
         s = n(21),
-        l = n(121),
+        l = n(122),
         c = n(28),
-        f = n(83),
+        f = n(84),
         p = n(2)('iterator'),
         d = !([].keys && 'next' in [].keys()),
         h = function() {
@@ -2481,7 +2481,7 @@ webpackJsonp(
       Object.defineProperty(t, '__esModule', { value: !0 })
       var l = n(41),
         c = r(l),
-        f = n(70),
+        f = n(71),
         p = r(f),
         d = n(18),
         h = r(d),
@@ -2496,9 +2496,9 @@ webpackJsonp(
       t.defaultHead = o
       var w = n(0),
         C = r(w),
-        k = n(65),
+        k = n(66),
         T = r(k),
-        P = n(162),
+        P = n(163),
         O = r(P),
         N = (function(e) {
           function t() {
@@ -2616,6 +2616,29 @@ webpackJsonp(
       }.call(t, n(181)))
     },
     function(e, t, n) {
+      'use strict'
+      function r(e) {
+        return e && e.__esModule ? e : { default: e }
+      }
+      Object.defineProperty(t, '__esModule', { value: !0 })
+      var o = n(3),
+        a = r(o),
+        i = n(0),
+        u = r(i)
+      t.default = function(e) {
+        return u.default.createElement(
+          'div',
+          { className: 'spacer', 'data-jsx': 3501780778 },
+          e.children,
+          u.default.createElement(a.default, {
+            styleId: 3501780778,
+            css:
+              '.spacer[data-jsx="3501780778"]{padding-left:1.25em;padding-right:1.25em}'
+          })
+        )
+      }
+    },
+    function(e, t, n) {
       e.exports = n(182)()
     },
     function(e, t) {
@@ -2631,18 +2654,18 @@ webpackJsonp(
       e.exports = n
     },
     function(e, t, n) {
-      e.exports = { default: n(99), __esModule: !0 }
+      e.exports = { default: n(100), __esModule: !0 }
     },
     function(e, t, n) {
-      e.exports = { default: n(102), __esModule: !0 }
+      e.exports = { default: n(103), __esModule: !0 }
     },
     function(e, t, n) {
-      e.exports = { default: n(105), __esModule: !0 }
+      e.exports = { default: n(106), __esModule: !0 }
     },
     function(e, t, n) {
       'use strict'
       t.__esModule = !0
-      var r = n(67),
+      var r = n(68),
         o = (function(e) {
           return e && e.__esModule ? e : { default: e }
         })(r)
@@ -2664,8 +2687,8 @@ webpackJsonp(
         s = n(32),
         l = n(33),
         c = n(51),
-        f = n(80),
-        p = n(86),
+        f = n(81),
+        p = n(87),
         d = n(9),
         h = n(52).fastKey,
         m = d ? '_s' : 'size',
@@ -2769,7 +2792,7 @@ webpackJsonp(
     },
     function(e, t, n) {
       var r = n(31),
-        o = n(113)
+        o = n(114)
       e.exports = function(e) {
         return function() {
           if (r(this) != e) throw TypeError(e + "#toJSON isn't generic")
@@ -2790,7 +2813,7 @@ webpackJsonp(
         f = n(13),
         p = n(28),
         d = n(6).f,
-        h = n(115)(0),
+        h = n(116)(0),
         m = n(9)
       e.exports = function(e, t, n, v, y, g) {
         var _ = r[e],
@@ -2926,7 +2949,7 @@ webpackJsonp(
         a = n(16),
         i = n(58),
         u = n(15),
-        s = n(75),
+        s = n(76),
         l = Object.getOwnPropertyDescriptor
       t.f = n(9)
         ? l
@@ -2939,7 +2962,7 @@ webpackJsonp(
           }
     },
     function(e, t, n) {
-      var r = n(84),
+      var r = n(85),
         o = n(49).concat('length', 'prototype')
       t.f =
         Object.getOwnPropertyNames ||
@@ -2965,7 +2988,7 @@ webpackJsonp(
     function(e, t, n) {
       var r = n(15),
         o = n(16),
-        a = n(114)(!1),
+        a = n(115)(!1),
         i = n(55)('IE_PROTO')
       e.exports = function(e, t) {
         var n,
@@ -3005,8 +3028,8 @@ webpackJsonp(
         o,
         a,
         i = n(11),
-        u = n(120),
-        s = n(74),
+        u = n(121),
+        s = n(75),
         l = n(48),
         c = n(4),
         f = c.process,
@@ -3108,10 +3131,10 @@ webpackJsonp(
       }), (t.Router = t.createRouter = void 0)
       var u = n(30),
         s = r(u),
-        l = n(69),
+        l = n(70),
         c = r(l)
       ;(t._notifyBuildIdMismatch = a), (t._rewriteUrlForNextExport = i)
-      var f = n(161),
+      var f = n(162),
         p = r(f),
         d = {
           router: null,
@@ -3186,6 +3209,7 @@ webpackJsonp(
             viewBox: '0 0 1300 1300',
             version: '1.1',
             xmlns: 'http://www.w3.org/2000/svg',
+            'aria-hidden': 'true',
             'data-jsx': 3528482479
           },
           u.default.createElement(
@@ -3456,7 +3480,7 @@ webpackJsonp(
       Object.defineProperty(t, '__esModule', { value: !0 })
       var l = n(23),
         c = r(l),
-        f = n(68),
+        f = n(69),
         p = r(f),
         d = n(18),
         h = r(d),
@@ -3653,63 +3677,63 @@ webpackJsonp(
         : ((r.tags.open = s), (r.tags.close = l)), r.reset()
     },
     function(e, t, n) {
-      e.exports = { default: n(101), __esModule: !0 }
+      e.exports = { default: n(102), __esModule: !0 }
     },
     function(e, t, n) {
-      e.exports = { default: n(104), __esModule: !0 }
+      e.exports = { default: n(105), __esModule: !0 }
     },
     function(e, t, n) {
-      e.exports = { default: n(107), __esModule: !0 }
-    },
-    function(e, t, n) {
-      e.exports = { default: n(110), __esModule: !0 }
+      e.exports = { default: n(108), __esModule: !0 }
     },
     function(e, t, n) {
       e.exports = { default: n(111), __esModule: !0 }
     },
     function(e, t, n) {
-      n(17), n(134), (e.exports = n(1).Array.from)
+      e.exports = { default: n(112), __esModule: !0 }
     },
     function(e, t, n) {
-      n(22), n(17), (e.exports = n(132))
+      n(17), n(135), (e.exports = n(1).Array.from)
     },
     function(e, t, n) {
       n(22), n(17), (e.exports = n(133))
     },
     function(e, t, n) {
-      n(39), n(17), n(22), n(136), n(145), (e.exports = n(1).Map)
+      n(22), n(17), (e.exports = n(134))
     },
     function(e, t, n) {
-      n(137), (e.exports = n(1).Object.assign)
+      n(39), n(17), n(22), n(137), n(146), (e.exports = n(1).Map)
     },
     function(e, t, n) {
-      n(138)
+      n(138), (e.exports = n(1).Object.assign)
+    },
+    function(e, t, n) {
+      n(139)
       var r = n(1).Object
       e.exports = function(e, t) {
         return r.create(e, t)
       }
     },
     function(e, t, n) {
-      n(139)
+      n(140)
       var r = n(1).Object
       e.exports = function(e, t, n) {
         return r.defineProperty(e, t, n)
       }
     },
     function(e, t, n) {
-      n(140), (e.exports = n(1).Object.getPrototypeOf)
+      n(141), (e.exports = n(1).Object.getPrototypeOf)
     },
     function(e, t, n) {
-      n(141), (e.exports = n(1).Object.setPrototypeOf)
+      n(142), (e.exports = n(1).Object.setPrototypeOf)
     },
     function(e, t, n) {
-      n(39), n(17), n(22), n(142), (e.exports = n(1).Promise)
+      n(39), n(17), n(22), n(143), (e.exports = n(1).Promise)
     },
     function(e, t, n) {
-      n(39), n(17), n(22), n(143), n(146), (e.exports = n(1).Set)
+      n(39), n(17), n(22), n(144), n(147), (e.exports = n(1).Set)
     },
     function(e, t, n) {
-      n(144), n(39), n(147), n(148), (e.exports = n(1).Symbol)
+      n(145), n(39), n(148), n(149), (e.exports = n(1).Symbol)
     },
     function(e, t, n) {
       n(17), n(22), (e.exports = n(60).f('iterator'))
@@ -3727,7 +3751,7 @@ webpackJsonp(
     function(e, t, n) {
       var r = n(16),
         o = n(37),
-        a = n(131)
+        a = n(132)
       e.exports = function(e) {
         return function(t, n, i) {
           var u,
@@ -3748,7 +3772,7 @@ webpackJsonp(
         o = n(50),
         a = n(29),
         i = n(37),
-        u = n(117)
+        u = n(118)
       e.exports = function(e, t) {
         var n = 1 == e,
           s = 2 == e,
@@ -3790,7 +3814,7 @@ webpackJsonp(
     },
     function(e, t, n) {
       var r = n(13),
-        o = n(77),
+        o = n(78),
         a = n(2)('species')
       e.exports = function(e) {
         var t
@@ -3805,7 +3829,7 @@ webpackJsonp(
       }
     },
     function(e, t, n) {
-      var r = n(116)
+      var r = n(117)
       e.exports = function(e, t) {
         return new (r(e))(t)
       }
@@ -3873,7 +3897,7 @@ webpackJsonp(
     },
     function(e, t, n) {
       var r = n(4),
-        o = n(87).set,
+        o = n(88).set,
         a = r.MutationObserver || r.WebKitMutationObserver,
         i = r.process,
         u = r.Promise,
@@ -3972,7 +3996,7 @@ webpackJsonp(
     },
     function(e, t, n) {
       var r = n(16),
-        o = n(82).f,
+        o = n(83).f,
         a = {}.toString,
         i = 'object' == typeof window && window && Object.getOwnPropertyNames
           ? Object.getOwnPropertyNames(window)
@@ -4021,7 +4045,7 @@ webpackJsonp(
                   try {
                     ;(r = n(11)(
                       Function.call,
-                      n(81).f(Object.prototype, '__proto__').set,
+                      n(82).f(Object.prototype, '__proto__').set,
                       2
                     )), r(e, []), (t = !(e instanceof Array))
                   } catch (e) {
@@ -4103,15 +4127,15 @@ webpackJsonp(
       var r = n(11),
         o = n(5),
         a = n(29),
-        i = n(78),
-        u = n(76),
+        i = n(79),
+        u = n(77),
         s = n(37),
-        l = n(118),
+        l = n(119),
         c = n(61)
       o(
         o.S +
           o.F *
-            !n(79)(function(e) {
+            !n(80)(function(e) {
               Array.from(e)
             }),
         'Array',
@@ -4146,8 +4170,8 @@ webpackJsonp(
     },
     function(e, t, n) {
       'use strict'
-      var r = n(112),
-        o = n(80),
+      var r = n(113),
+        o = n(81),
         a = n(21),
         i = n(16)
       ;(e.exports = n(51)(
@@ -4171,8 +4195,8 @@ webpackJsonp(
     },
     function(e, t, n) {
       'use strict'
-      var r = n(71)
-      e.exports = n(73)(
+      var r = n(72)
+      e.exports = n(74)(
         'Map',
         function(e) {
           return function() {
@@ -4194,7 +4218,7 @@ webpackJsonp(
     },
     function(e, t, n) {
       var r = n(5)
-      r(r.S + r.F, 'Object', { assign: n(124) })
+      r(r.S + r.F, 'Object', { assign: n(125) })
     },
     function(e, t, n) {
       var r = n(5)
@@ -4206,8 +4230,8 @@ webpackJsonp(
     },
     function(e, t, n) {
       var r = n(29),
-        o = n(83)
-      n(127)('getPrototypeOf', function() {
+        o = n(84)
+      n(128)('getPrototypeOf', function() {
         return function(e) {
           return o(r(e))
         }
@@ -4215,7 +4239,7 @@ webpackJsonp(
     },
     function(e, t, n) {
       var r = n(5)
-      r(r.S, 'Object', { setPrototypeOf: n(128).set })
+      r(r.S, 'Object', { setPrototypeOf: n(129).set })
     },
     function(e, t, n) {
       'use strict'
@@ -4231,9 +4255,9 @@ webpackJsonp(
         p = n(46),
         d = n(47),
         h = n(33),
-        m = n(129),
-        v = n(87).set,
-        y = n(123)(),
+        m = n(130),
+        v = n(88).set,
+        y = n(124)(),
         g = u.TypeError,
         _ = u.process,
         x = u.Promise,
@@ -4363,7 +4387,7 @@ webpackJsonp(
               N(t, !0)
             )
         },
-        R = function(e) {
+        j = function(e) {
           var t,
             n = this
           if (!n._d) {
@@ -4374,7 +4398,7 @@ webpackJsonp(
                 ? y(function() {
                     var r = { _w: n, _d: !1 }
                     try {
-                      t.call(e, s(R, r, 1), s(I, r, 1))
+                      t.call(e, s(j, r, 1), s(I, r, 1))
                     } catch (e) {
                       I.call(r, e)
                     }
@@ -4390,7 +4414,7 @@ webpackJsonp(
           (x = function(e) {
             d(this, x, 'Promise', '_h'), p(e), r.call(this)
             try {
-              e(s(R, this, 1), s(I, this, 1))
+              e(s(j, this, 1), s(I, this, 1))
             } catch (e) {
               I.call(this, e)
             }
@@ -4413,13 +4437,13 @@ webpackJsonp(
           })),
           (P = function() {
             var e = new r()
-            ;(this.promise = e), (this.resolve = s(R, e, 1)), (this.reject = s(
+            ;(this.promise = e), (this.resolve = s(j, e, 1)), (this.reject = s(
               I,
               e,
               1
             ))
           })
-        ), c(c.G + c.W + c.F * !w, { Promise: x }), n(28)(x, 'Promise'), n(86)(
+        ), c(c.G + c.W + c.F * !w, { Promise: x }), n(28)(x, 'Promise'), n(87)(
         'Promise'
       ), (a = n(1).Promise), c(c.S + c.F * !w, 'Promise', {
         reject: function(e) {
@@ -4437,7 +4461,7 @@ webpackJsonp(
           c.F *
             !(
               w &&
-              n(79)(function(e) {
+              n(80)(function(e) {
                 x.all(e).catch(E)
               })
             ),
@@ -4478,8 +4502,8 @@ webpackJsonp(
     },
     function(e, t, n) {
       'use strict'
-      var r = n(71)
-      e.exports = n(73)(
+      var r = n(72)
+      e.exports = n(74)(
         'Set',
         function(e) {
           return function() {
@@ -4500,7 +4524,7 @@ webpackJsonp(
         o = n(15),
         a = n(9),
         i = n(5),
-        u = n(85),
+        u = n(86),
         s = n(52).KEY,
         l = n(14),
         c = n(56),
@@ -4509,16 +4533,16 @@ webpackJsonp(
         d = n(2),
         h = n(60),
         m = n(59),
-        v = n(122),
-        y = n(119),
-        g = n(77),
+        v = n(123),
+        y = n(120),
+        g = n(78),
         _ = n(10),
         x = n(16),
         b = n(58),
         E = n(27),
         w = n(35),
-        C = n(126),
-        k = n(81),
+        C = n(127),
+        k = n(82),
         T = n(6),
         P = n(26),
         O = k.f,
@@ -4527,8 +4551,8 @@ webpackJsonp(
         M = r.Symbol,
         A = r.JSON,
         I = A && A.stringify,
-        R = d('_hidden'),
-        j = d('toPrimitive'),
+        j = d('_hidden'),
+        R = d('toPrimitive'),
         D = {}.propertyIsEnumerable,
         L = c('symbol-registry'),
         U = c('symbols'),
@@ -4571,10 +4595,10 @@ webpackJsonp(
             ? (
                 n.enumerable
                   ? (
-                      o(e, R) && e[R][t] && (e[R][t] = !1),
+                      o(e, j) && e[j][t] && (e[j][t] = !1),
                       (n = w(n, { enumerable: E(0, !1) }))
                     )
-                  : (o(e, R) || N(e, R, E(1, {})), (e[R][t] = !0)),
+                  : (o(e, j) || N(e, j, E(1, {})), (e[j][t] = !0)),
                 V(e, t, n)
               )
             : N(e, t, n)
@@ -4592,7 +4616,7 @@ webpackJsonp(
           var t = D.call(this, (e = b(e, !0)))
           return (
             !(this === B && o(U, e) && !o(F, e)) &&
-            (!(t || !o(this, e) || !o(U, e) || (o(this, R) && this[R][e])) || t)
+            (!(t || !o(this, e) || !o(U, e) || (o(this, j) && this[j][e])) || t)
           )
         },
         $ = function(e, t) {
@@ -4600,13 +4624,13 @@ webpackJsonp(
             var n = O(e, t)
             return !n ||
               !o(U, t) ||
-              (o(e, R) && e[R][t]) ||
+              (o(e, j) && e[j][t]) ||
               (n.enumerable = !0), n
           }
         },
         J = function(e) {
           for (var t, n = S(x(e)), r = [], a = 0; n.length > a; )
-            o(U, (t = n[a++])) || t == R || t == s || r.push(t)
+            o(U, (t = n[a++])) || t == j || t == s || r.push(t)
           return r
         },
         Z = function(e) {
@@ -4625,9 +4649,9 @@ webpackJsonp(
               throw TypeError('Symbol is not a constructor!')
             var e = p(arguments.length > 0 ? arguments[0] : void 0),
               t = function(n) {
-                this === B && t.call(F, n), o(this, R) &&
-                  o(this[R], e) &&
-                  (this[R][e] = !1), V(this, e, E(1, n))
+                this === B && t.call(F, n), o(this, j) &&
+                  o(this[j], e) &&
+                  (this[j][e] = !1), V(this, e, E(1, n))
               }
             return a && W && V(B, e, { configurable: !0, set: t }), z(e)
           }),
@@ -4636,7 +4660,7 @@ webpackJsonp(
           }),
           (k.f = $),
           (T.f = Y),
-          (n(82).f = C.f = J),
+          (n(83).f = C.f = J),
           (n(36).f = Q),
           (n(53).f = Z),
           a && !n(34) && u(B, 'propertyIsEnumerable', Q, !0),
@@ -4702,18 +4726,18 @@ webpackJsonp(
               }
             }
           }
-        ), M.prototype[j] || n(12)(M.prototype, j, M.prototype.valueOf), f(
+        ), M.prototype[R] || n(12)(M.prototype, R, M.prototype.valueOf), f(
         M,
         'Symbol'
       ), f(Math, 'Math', !0), f(r.JSON, 'JSON', !0)
     },
     function(e, t, n) {
       var r = n(5)
-      r(r.P + r.R, 'Map', { toJSON: n(72)('Map') })
+      r(r.P + r.R, 'Map', { toJSON: n(73)('Map') })
     },
     function(e, t, n) {
       var r = n(5)
-      r(r.P + r.R, 'Set', { toJSON: n(72)('Set') })
+      r(r.P + r.R, 'Set', { toJSON: n(73)('Set') })
     },
     function(e, t, n) {
       n(59)('asyncIterator')
@@ -5102,8 +5126,8 @@ webpackJsonp(
                         }
                         return (o = {
                           err: t,
-                          pathname: R,
-                          query: j,
+                          pathname: j,
+                          query: R,
                           asPath: B
                         }), (e.next = 8), (0, k.loadGetInitialProps)(Y, o)
                       case 8:
@@ -5201,23 +5225,23 @@ webpackJsonp(
         y = r(v),
         g = n(62),
         _ = r(g),
-        x = n(153),
+        x = n(154),
         b = r(x),
-        E = n(88),
-        w = n(156),
+        E = n(89),
+        w = n(157),
         C = r(w),
         k = n(64),
-        T = n(157),
+        T = n(158),
         P = r(T),
-        O = n(160),
+        O = n(161),
         N = r(O)
       window.Promise || (window.Promise = f.default)
       var S = window,
         M = S.__NEXT_DATA__,
         A = M.props,
         I = M.err,
-        R = M.pathname,
-        j = M.query,
+        j = M.pathname,
+        R = M.query,
         D = M.buildId,
         L = M.chunks,
         U = M.assetPrefix,
@@ -5286,7 +5310,7 @@ webpackJsonp(
                     return (e.next = 28), H.loadPage('/_error')
                   case 28:
                     return (t.ErrorComponent = Y =
-                      e.sent), (e.prev = 29), (e.next = 32), H.loadPage(R)
+                      e.sent), (e.prev = 29), (e.next = 32), H.loadPage(j)
                   case 32:
                     ;(K = e.sent), (e.next = 39)
                     break
@@ -5295,7 +5319,7 @@ webpackJsonp(
                       e.t1.message + '\n' + e.t1.stack
                     ), (K = Y)
                   case 39:
-                    return (t.router = G = (0, E.createRouter)(R, j, B, {
+                    return (t.router = G = (0, E.createRouter)(j, R, B, {
                       pageLoader: H,
                       Component: K,
                       ErrorComponent: Y,
@@ -5327,7 +5351,7 @@ webpackJsonp(
     },
     function(e, t, n) {
       'use strict'
-      var r = n(154)
+      var r = n(155)
       ;(
         0,
         (function(e) {
@@ -5394,10 +5418,10 @@ webpackJsonp(
         v = r(m),
         y = n(0),
         g = r(y),
-        _ = n(65),
+        _ = n(66),
         x = r(_),
         b = n(189),
-        E = n(89),
+        E = n(90),
         w = r(E),
         C = n(64),
         k = (function(e) {
@@ -5504,7 +5528,7 @@ webpackJsonp(
       Object.defineProperty(t, '__esModule', { value: !0 })
       var o = n(0),
         a = r(o),
-        i = n(93),
+        i = n(94),
         u = r(i),
         s = n(63),
         l = r(s)
@@ -5617,7 +5641,7 @@ webpackJsonp(
         d = r(p),
         h = n(0),
         m = r(h),
-        v = n(152),
+        v = n(153),
         y = r(v),
         g = n(63),
         _ = r(g),
@@ -5974,7 +5998,7 @@ webpackJsonp(
             ]), e
           })()
         t.default = d
-      }.call(t, n(92)(e)))
+      }.call(t, n(93)(e)))
     },
     function(e, t, n) {
       'use strict'
@@ -6004,12 +6028,12 @@ webpackJsonp(
         b = n(199),
         E = n(62),
         w = r(E),
-        C = n(89),
+        C = n(90),
         k = r(C),
-        T = n(159),
+        T = n(160),
         P = r(T),
         O = n(64),
-        N = n(88),
+        N = n(89),
         S = (function() {
           function e(t, n, r) {
             var a = arguments.length > 3 && void 0 !== arguments[3]
@@ -6751,7 +6775,7 @@ webpackJsonp(
         p = r(f),
         d = n(19),
         h = r(d),
-        m = n(70),
+        m = n(71),
         v = r(m),
         y = n(41),
         g = r(y)
@@ -6765,7 +6789,7 @@ webpackJsonp(
     },
     function(e, t, n) {
       'use strict'
-      e.exports = n(158)
+      e.exports = n(159)
     },
     function(e, t, n) {
       'use strict'
@@ -6780,101 +6804,101 @@ webpackJsonp(
       t.default = function(e) {
         return u.default.createElement(
           'div',
-          { 'data-jsx': 418934423 },
+          { 'data-jsx': 1991859893 },
           u.default.createElement(
             'p',
-            { className: 'api-desc', 'data-jsx': 418934423 },
+            { className: 'api-desc', 'data-jsx': 1991859893 },
             "You'll get to make a number of small projects so you can try out some of the awesome APIs that Electron provides or supports. Each will expand your imagination and capability of what you can create with Electron."
           ),
           u.default.createElement(
             'ol',
-            { className: 'api-list', 'data-jsx': 418934423 },
+            { className: 'api-list', 'data-jsx': 1991859893 },
             u.default.createElement(
               'li',
-              { className: 'api-item', 'data-jsx': 418934423 },
+              { className: 'api-item', 'data-jsx': 1991859893 },
               u.default.createElement(
                 'h3',
-                { className: 'api-title', 'data-jsx': 418934423 },
+                { className: 'api-title', 'data-jsx': 1991859893 },
                 'Inter-process Communication'
               )
             ),
             u.default.createElement(
               'li',
-              { className: 'api-item', 'data-jsx': 418934423 },
+              { className: 'api-item', 'data-jsx': 1991859893 },
               u.default.createElement(
                 'h3',
-                { className: 'api-title', 'data-jsx': 418934423 },
+                { className: 'api-title', 'data-jsx': 1991859893 },
                 'Application Menus'
               )
             ),
             u.default.createElement(
               'li',
-              { className: 'api-item', 'data-jsx': 418934423 },
+              { className: 'api-item', 'data-jsx': 1991859893 },
               u.default.createElement(
                 'h3',
-                { className: 'api-title', 'data-jsx': 418934423 },
+                { className: 'api-title', 'data-jsx': 1991859893 },
                 'System Tray'
               )
             ),
             u.default.createElement(
               'li',
-              { className: 'api-item', 'data-jsx': 418934423 },
+              { className: 'api-item', 'data-jsx': 1991859893 },
               u.default.createElement(
                 'h3',
-                { className: 'api-title', 'data-jsx': 418934423 },
+                { className: 'api-title', 'data-jsx': 1991859893 },
                 'Clipboard'
               )
             ),
             u.default.createElement(
               'li',
-              { className: 'api-item', 'data-jsx': 418934423 },
+              { className: 'api-item', 'data-jsx': 1991859893 },
               u.default.createElement(
                 'h3',
-                { className: 'api-title', 'data-jsx': 418934423 },
+                { className: 'api-title', 'data-jsx': 1991859893 },
                 'Global Shortcuts'
               )
             ),
             u.default.createElement(
               'li',
-              { className: 'api-item', 'data-jsx': 418934423 },
+              { className: 'api-item', 'data-jsx': 1991859893 },
               u.default.createElement(
                 'h3',
-                { className: 'api-title', 'data-jsx': 418934423 },
+                { className: 'api-title', 'data-jsx': 1991859893 },
                 'Screenshot'
               )
             ),
             u.default.createElement(
               'li',
-              { className: 'api-item', 'data-jsx': 418934423 },
+              { className: 'api-item', 'data-jsx': 1991859893 },
               u.default.createElement(
                 'h3',
-                { className: 'api-title', 'data-jsx': 418934423 },
+                { className: 'api-title', 'data-jsx': 1991859893 },
                 'Child Processes'
               )
             ),
             u.default.createElement(
               'li',
-              { className: 'api-item', 'data-jsx': 418934423 },
+              { className: 'api-item', 'data-jsx': 1991859893 },
               u.default.createElement(
                 'h3',
-                { className: 'api-title', 'data-jsx': 418934423 },
+                { className: 'api-title', 'data-jsx': 1991859893 },
                 'Webcam'
               )
             ),
             u.default.createElement(
               'li',
-              { className: 'api-item', 'data-jsx': 418934423 },
+              { className: 'api-item', 'data-jsx': 1991859893 },
               u.default.createElement(
                 'h3',
-                { className: 'api-title', 'data-jsx': 418934423 },
+                { className: 'api-title', 'data-jsx': 1991859893 },
                 'WebGL'
               )
             )
           ),
           u.default.createElement(a.default, {
-            styleId: 418934423,
+            styleId: 1991859893,
             css:
-              '.api-list[data-jsx="418934423"]{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-wrap:wrap;-ms-flex-wrap:wrap;flex-wrap:wrap;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;list-style:none}.api-item[data-jsx="418934423"]{margin:20px 3vw;padding:20px 30px;background:#A88A05;-webkit-text-align:center;text-align:center;border-radius:3px}.api-item[data-jsx="418934423"]:nth-child(2n){background:#7B9804}'
+              '.api-list[data-jsx="1991859893"]{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-wrap:wrap;-ms-flex-wrap:wrap;flex-wrap:wrap;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;list-style:none}.api-item[data-jsx="1991859893"]{margin:1em 1.25em;padding:1.25em 1.5em;background:#A88A05;-webkit-text-align:center;text-align:center;border-radius:3px}.api-item[data-jsx="1991859893"]:nth-child(2n){background:#7B9804}'
           })
         )
       }
@@ -7201,102 +7225,86 @@ webpackJsonp(
       var o = n(3),
         a = r(o),
         i = n(0),
-        u = r(i)
-      t.default = function(e) {
-        return u.default.createElement(
-          'div',
-          { className: 'container', 'data-jsx': 1144573873 },
-          e.children,
-          u.default.createElement(a.default, {
-            styleId: 1144573873,
-            css: '.container[data-jsx="1144573873"]{outline:1px solid blue}'
-          })
-        )
-      }
-    },
-    function(e, t, n) {
-      'use strict'
-      function r(e) {
-        return e && e.__esModule ? e : { default: e }
-      }
-      Object.defineProperty(t, '__esModule', { value: !0 })
-      var o = n(3),
-        a = r(o),
-        i = n(0),
         u = r(i),
-        s = n(90),
+        s = n(91),
         l = r(s),
-        c = function(e) {
+        c = n(65),
+        f = r(c),
+        p = function(e) {
           return new Date().getFullYear()
         }
       t.default = function(e) {
         return u.default.createElement(
           'footer',
-          { className: 'footer', 'data-jsx': 2138614470 },
+          { className: 'footer', 'data-jsx': 2273525716 },
           u.default.createElement(
             'div',
-            { className: 'section-inner', 'data-jsx': 2138614470 },
+            { className: 'section-inner', 'data-jsx': 2273525716 },
             u.default.createElement(
               'div',
-              { className: 'footer__merry', 'data-jsx': 2138614470 },
+              { className: 'footer__merry', 'data-jsx': 2273525716 },
               u.default.createElement(l.default, null)
             ),
             u.default.createElement(
-              'div',
-              { className: 'footer-body', 'data-jsx': 2138614470 },
+              f.default,
+              null,
               u.default.createElement(
                 'div',
-                { className: 'footer-col', 'data-jsx': 2138614470 },
+                { className: 'footer-body', 'data-jsx': 2273525716 },
                 u.default.createElement(
-                  'p',
-                  { className: 'footer-invite', 'data-jsx': 2138614470 },
-                  'Check out some of my other tech shenanigans by visiting my ',
+                  'div',
+                  { className: 'footer-col', 'data-jsx': 2273525716 },
+                  u.default.createElement(
+                    'p',
+                    { className: 'footer-invite', 'data-jsx': 2273525716 },
+                    'Check out some of my other tech shenanigans by visiting my ',
+                    u.default.createElement(
+                      'a',
+                      {
+                        href: 'https://github.com/jaketrent',
+                        'data-jsx': 2273525716
+                      },
+                      'Github'
+                    ),
+                    ' or by going to:',
+                    ' '
+                  ),
                   u.default.createElement(
                     'a',
                     {
-                      href: 'https://github.com/jaketrent',
-                      'data-jsx': 2138614470
+                      className: 'footer-invite-link',
+                      href: 'http://jaketrent.com',
+                      'data-jsx': 2273525716
                     },
-                    'Github'
-                  ),
-                  ' or by going to:',
-                  ' '
+                    'jaketrent.com'
+                  )
                 ),
                 u.default.createElement(
-                  'a',
-                  {
-                    className: 'footer-invite-link',
-                    href: 'http://jaketrent.com',
-                    'data-jsx': 2138614470
-                  },
-                  'jaketrent.com'
-                )
-              ),
-              u.default.createElement(
-                'div',
-                {
-                  className: 'footer-col footer-col__copy',
-                  'data-jsx': 2138614470
-                },
-                u.default.createElement(
                   'div',
-                  { className: 'footer-copy', 'data-jsx': 2138614470 },
-                  'Course © ',
-                  c(),
-                  ' Pluralsight; this page © ',
-                  c(),
-                  ' Jake Trent',
-                  ' ',
-                  u.default.createElement('br', { 'data-jsx': 2138614470 }),
-                  'This content uses affiliate links.'
+                  {
+                    className: 'footer-col footer-col__copy',
+                    'data-jsx': 2273525716
+                  },
+                  u.default.createElement(
+                    'div',
+                    { className: 'footer-copy', 'data-jsx': 2273525716 },
+                    'Course © ',
+                    p(),
+                    ' Pluralsight; this page © ',
+                    p(),
+                    ' Jake Trent',
+                    ' ',
+                    u.default.createElement('br', { 'data-jsx': 2273525716 }),
+                    'This content uses affiliate links.'
+                  )
                 )
               )
             )
           ),
           u.default.createElement(a.default, {
-            styleId: 2138614470,
+            styleId: 2273525716,
             css:
-              '.footer[data-jsx="2138614470"]{position:relative;overflow:hidden}.footer__merry[data-jsx="2138614470"]{position:absolute;top:0;left:50%;-webkit-transform:translateX(-50%);-ms-transform:translateX(-50%);transform:translateX(-50%);height:1300px;width:1300px}.footer-body[data-jsx="2138614470"]{position:relative;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;width:80%;margin:0 auto;padding:10vh 0 8vh 0}.footer-col[data-jsx="2138614470"]{-webkit-flex:1;-ms-flex:1;flex:1}.footer-col[data-jsx="2138614470"]+.footer-col[data-jsx="2138614470"]{margin-left:20px}.footer-invite-link[data-jsx="2138614470"]{font:0/0 a;-webkit-text-shadow:none;text-shadow:none;color:transparent;background:url(/static/img/jaketrent-logo-white.png) center no-repeat;background-size:cover;height:69.375px;width:250px;border:1px solid transparent;margin-top:25px}.footer-invite-link[data-jsx="2138614470"]:hover{border:1px dashed #889F1E}.footer-col__copy[data-jsx="2138614470"]{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:end;-webkit-justify-content:flex-end;-ms-flex-pack:end;justify-content:flex-end;-webkit-align-items:flex-end;-webkit-box-align:flex-end;-ms-flex-align:flex-end;align-items:flex-end}.footer-copy[data-jsx="2138614470"]{font-size:.6em;line-height:1.125em}'
+              '.footer[data-jsx="2273525716"]{position:relative;overflow:hidden;max-width:56em;margin:0 auto}.footer__merry[data-jsx="2273525716"]{position:absolute;top:-10%;left:50%;-webkit-transform:translateX(-50%);-ms-transform:translateX(-50%);transform:translateX(-50%);height:1300px;width:1300px}.footer-body[data-jsx="2273525716"]{position:relative;margin:0 auto;padding:3em 0}.footer-col[data-jsx="2273525716"]{margin-bottom:1em}.footer-invite-link[data-jsx="2273525716"]{font:0/0 a;-webkit-text-shadow:none;text-shadow:none;color:transparent;background:url(/static/img/jaketrent-logo-white.png) center no-repeat;background-size:cover;height:69.375px;width:250px;border:1px solid transparent}.footer-copy[data-jsx="2273525716"]{font-size:0.75em;line-height:1.125em;margin-top:3em}@media screen and (min-width:426px){.footer-body[data-jsx="2273525716"]{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex}.footer-col[data-jsx="2273525716"]{-webkit-flex:1;-ms-flex:1;flex:1}.footer-col[data-jsx="2273525716"]+.footer-col[data-jsx="2273525716"]{margin-left:1.25em}.footer-col__copy[data-jsx="2273525716"]{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:end;-webkit-justify-content:flex-end;-ms-flex-pack:end;justify-content:flex-end;-webkit-align-items:flex-end;-webkit-box-align:flex-end;-ms-flex-align:flex-end;align-items:flex-end;-webkit-text-align:right;text-align:right}}'
           })
         )
       }
@@ -7313,9 +7321,9 @@ webpackJsonp(
         u = r(i)
       t.default = function(e) {
         return u.default.createElement(a.default, {
-          styleId: 342571794,
+          styleId: 1281976364,
           css:
-            "*{box-sizing:border-box}html,body{font-family:'Raleway', sans-serif;background-color:#0F6402;color:#fff;margin:0;padding:0;font-size:18px}h1,h2,h3{font-weight:100;margin:0}a{display:inline-block;color:#fff;-webkit-text-decoration:none;text-decoration:none;border-bottom:1px dashed #889F1E;margin-bottom:2px;cursor:pointer}a:hover{border-bottom:none;color:#889F1E;border-bottom:1px solid #889F1E}ol{margin:0;padding:0}p{line-height:30px}"
+            "*{box-sizing:border-box}html,body{margin:0;padding:0;font-family:'Raleway', sans-serif;background-color:#0F6402;color:#fff;font-size:16px}h1,h2,h3{font-weight:100;margin:0}a{display:inline-block;color:#fff;-webkit-text-decoration:none;text-decoration:none;border-bottom:1px dashed #889F1E;margin-bottom:2px;cursor:pointer}a:hover{border-bottom:none;color:#889F1E;border-bottom:1px solid #889F1E}ol{margin:0;padding:0}p{line-height:30px}iframe{max-width:100%}@media screen and (min-width:426px){}@media screen and (min-width:769px){html,body{font-size:18px}}@media screen and (min-width:1441px){html,body{font-size:22px}}"
         })
       }
     },
@@ -7329,40 +7337,50 @@ webpackJsonp(
         a = r(o),
         i = n(0),
         u = r(i),
-        s = n(90),
-        l = r(s)
+        s = n(65),
+        l = r(s),
+        c = n(91),
+        f = r(c)
       t.default = function(e) {
         return u.default.createElement(
           'header',
-          { className: 'pg-header', 'data-jsx': 1648586826 },
+          { className: 'header', 'data-jsx': 364289638 },
           u.default.createElement(
             'div',
-            { className: 'pg-header__merry', 'data-jsx': 1648586826 },
-            u.default.createElement(l.default, null)
+            { className: 'header__merry', 'data-jsx': 364289638 },
+            u.default.createElement(f.default, null)
           ),
           u.default.createElement(
-            'h1',
-            { className: 'pg-title', 'data-jsx': 1648586826 },
+            'div',
+            { className: 'header__content', 'data-jsx': 364289638 },
             u.default.createElement(
-              'a',
-              {
-                href:
-                  'https://app.pluralsight.com/library/courses/electron-fundamentals/table-of-contents',
-                className: 'pg-title-link',
-                'data-jsx': 1648586826
-              },
-              'Electron Fundamentals'
+              l.default,
+              null,
+              u.default.createElement(
+                'h1',
+                { className: 'header__title', 'data-jsx': 364289638 },
+                u.default.createElement(
+                  'a',
+                  {
+                    href:
+                      'https://app.pluralsight.com/library/courses/electron-fundamentals/table-of-contents',
+                    className: 'header__link',
+                    'data-jsx': 364289638
+                  },
+                  'Electron Fundamentals'
+                )
+              ),
+              u.default.createElement(
+                'h2',
+                { className: 'header__subtitle', 'data-jsx': 364289638 },
+                'A course to engage your web tech skills in native desktop app dev'
+              )
             )
           ),
-          u.default.createElement(
-            'h2',
-            { className: 'pg-subtitle', 'data-jsx': 1648586826 },
-            'A course to engage your web tech skills in native desktop app dev'
-          ),
           u.default.createElement(a.default, {
-            styleId: 1648586826,
+            styleId: 364289638,
             css:
-              '.pg-header[data-jsx="1648586826"]{height:60%;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;-webkit-text-align:center;text-align:center;overflow:hidden;position:relative;padding:240px 0}.pg-header__merry[data-jsx="1648586826"]{position:absolute;top:50%;left:50%;-webkit-transform:translate(-50%, -50%);-ms-transform:translate(-50%, -50%);transform:translate(-50%, -50%);height:1300px;width:1300px}.pg-title[data-jsx="1648586826"]{position:relative;font-size:70px}.pg-title-link[data-jsx="1648586826"]{border-bottom:0;border-bottom:1px solid transparent}.pg-title-link[data-jsx="1648586826"]:hover{color:inherit}.pg-subtitle[data-jsx="1648586826"]{position:relative;margin-top:20px}'
+              '.header[data-jsx="364289638"]{position:relative;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;margin:0 auto;-webkit-text-align:center;text-align:center;font-size:2rem;overflow:hidden;padding:2em 0 2em 0}.header__merry[data-jsx="364289638"]{position:absolute;top:50%;left:50%;-webkit-transform:translate(-50%, -50%);-ms-transform:translate(-50%, -50%);transform:translate(-50%, -50%);width:200%}.header__content[data-jsx="364289638"]{position:relative;color:#fff;-webkit-text-shadow:1px 1px 3px rgba(0, 0, 0, 0.8);text-shadow:1px 1px 3px rgba(0, 0, 0, 0.8)}.header__title[data-jsx="364289638"]{font-size:1.5em}.header__link[data-jsx="364289638"]{border-bottom:1px solid transparent}.header__link[data-jsx="364289638"]:hover{color:inherit}.header__subtitle[data-jsx="364289638"]{margin-top:1.25em;font-size:1em}@media screen and (min-width:426px){.header__merry[data-jsx="364289638"]{width:150%}}@media screen and (min-width:769px){.header[data-jsx="364289638"]{padding:4.5em 0 4.5em 0}.header__merry[data-jsx="364289638"]{width:120%}.header__title[data-jsx="364289638"]{font-size:1.825em}}@media screen and (min-width:1441px){.header__title[data-jsx="364289638"]{font-size:2.5em}}'
           })
         )
       }
@@ -7380,35 +7398,35 @@ webpackJsonp(
       t.default = function(e) {
         return u.default.createElement(
           'div',
-          { className: 'signup-body', 'data-jsx': 1727607579 },
+          { className: 'signup', 'data-jsx': 4106933391 },
           u.default.createElement(
             'p',
-            { className: 'signup-desc', 'data-jsx': 1727607579 },
+            { className: 'signup__desc', 'data-jsx': 4106933391 },
             'This course is offered as a part of the Pluralsight library. Pluralsight is a great platform for expanding your skills and gaining the knowledge that you desire to engage in new and interesting projects. Try this and many other worthwhile courses in the library.',
             ' '
           ),
           u.default.createElement(
             'div',
-            { className: 'signup-links', 'data-jsx': 1727607579 },
+            { className: 'signup__links', 'data-jsx': 4106933391 },
             u.default.createElement(
               'a',
               {
-                className: 'signup-link',
+                className: 'signup__link',
                 href: 'http://bit.ly/jaketrent-pluralsight',
-                'data-jsx': 1727607579
+                'data-jsx': 4106933391
               },
               'Try Pluralsight'
             ),
             u.default.createElement(
               'div',
-              { className: 'signup-meta', 'data-jsx': 1727607579 },
-              '30-day free trial'
+              { className: 'signup__meta', 'data-jsx': 4106933391 },
+              '10-day free trial'
             )
           ),
           u.default.createElement(a.default, {
-            styleId: 1727607579,
+            styleId: 4106933391,
             css:
-              '.signup-body[data-jsx="1727607579"]{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;width:700px;margin:0 auto}.signup-desc[data-jsx="1727607579"]{-webkit-flex:2;-ms-flex:2;flex:2}.signup-links[data-jsx="1727607579"]{-webkit-flex:1;-ms-flex:1;flex:1;padding-left:30px;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center}.signup-link[data-jsx="1727607579"]{display:inline-block;width:220px;padding:12px 22px;background:linear-gradient(0deg, #D1591A, #e56a2c);border-radius:3px;margin:0 0 8px 0;-webkit-text-align:center;text-align:center;border:none;font-size:20px}.signup-link[data-jsx="1727607579"]:hover{color:#fff;background:#E56A2C;border:none}.signup-meta[data-jsx="1727607579"]{font-style:italic;font-size:0.8em}'
+              '.signup[data-jsx="4106933391"]{margin:0 auto}.signup__desc[data-jsx="4106933391"]{margin-bottom:2em}.signup__links[data-jsx="4106933391"]{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center}.signup__link[data-jsx="4106933391"]{display:inline-block;padding:0.75em 2em;background:linear-gradient(0deg, #D1591A, #e56a2c);border-radius:3px;margin:0 0 0.5em 0;-webkit-text-align:center;text-align:center;border:none;font-size:1.25em}.signup__link[data-jsx="4106933391"]:hover{color:#fff;background:#E56A2C;border:none}.signup__meta[data-jsx="4106933391"]{font-style:italic;font-size:0.8em}@media screen and (min-width:650px){.signup[data-jsx="4106933391"]{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center}.signup__desc[data-jsx="4106933391"]{-webkit-flex:2;-ms-flex:2;flex:2}.signup__links[data-jsx="4106933391"]{-webkit-flex:1;-ms-flex:1;flex:1;margin-left:1.25em}}'
           })
         )
       }
@@ -7423,22 +7441,22 @@ webpackJsonp(
         a = r(o),
         i = n(0),
         u = r(i),
-        s = n(166),
+        s = n(167),
         l = r(s),
         c = n(177),
         f = r(c)
       t.default = function(e) {
         return u.default.createElement(
           'div',
-          { className: 'learn', 'data-jsx': 2781867858 },
+          { className: 'learn', 'data-jsx': 3807392734 },
           u.default.createElement(
             'div',
-            { className: 'learn__atom', 'data-jsx': 2781867858 },
+            { className: 'learn__atom', 'data-jsx': 3807392734 },
             u.default.createElement(l.default, null)
           ),
           u.default.createElement(
             'div',
-            { className: 'learn__toc', 'data-jsx': 2781867858 },
+            { className: 'learn__toc', 'data-jsx': 3807392734 },
             u.default.createElement(
               f.default.List,
               null,
@@ -7497,9 +7515,9 @@ webpackJsonp(
             )
           ),
           u.default.createElement(a.default, {
-            styleId: 2781867858,
+            styleId: 3807392734,
             css:
-              '.learn[data-jsx="2781867858"]{position:relative}.learn__atom[data-jsx="2781867858"]{position:absolute;left:-300px;top:50%;height:450px;width:450px;-webkit-transform:translateY(-50%);-ms-transform:translateY(-50%);transform:translateY(-50%)}.learn__toc[data-jsx="2781867858"]{position:relative}'
+              '.learn[data-jsx="3807392734"]{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column-reverse;-ms-flex-direction:column-reverse;flex-direction:column-reverse}.learn__atom[data-jsx="3807392734"]{height:16em;width:16em;margin:0 auto}@media screen and (min-width:56em){.learn[data-jsx="3807392734"]{position:relative}.learn__atom[data-jsx="3807392734"]{position:absolute;left:-20em;top:50%;height:20em;width:20em;-webkit-transform:translateY(-50%);-ms-transform:translateY(-50%);transform:translateY(-50%)}.learn__toc[data-jsx="3807392734"]{position:relative}}'
           })
         )
       }
@@ -7517,20 +7535,20 @@ webpackJsonp(
       t.default = function(e) {
         return u.default.createElement(
           'div',
-          { 'data-jsx': 1765782494 },
+          { className: 'preview', 'data-jsx': 1530856830 },
           u.default.createElement('iframe', {
-            className: 'vid-frame',
+            className: 'preview__video',
             width: '853',
             height: '480',
             src: 'https://www.youtube.com/embed/dMDNWLTOU8o?rel=0',
             frameBorder: '0',
             allowFullScreen: !0,
-            'data-jsx': 1765782494
+            'data-jsx': 1530856830
           }),
           u.default.createElement(a.default, {
-            styleId: 1765782494,
+            styleId: 1530856830,
             css:
-              '.vid-frame[data-jsx="1765782494"]{display:block;margin:0 auto}'
+              '.preview[data-jsx="1530856830"]{position:relative;width:100%;height:0;padding-bottom:56.25%}.preview__video[data-jsx="1530856830"]{position:absolute;top:0;left:0;width:100%;height:100%}'
           })
         )
       }
@@ -7548,16 +7566,16 @@ webpackJsonp(
       t.default = function(e) {
         return u.default.createElement(
           'header',
-          { className: 'header', 'data-jsx': 2116823082 },
+          { className: 'header', 'data-jsx': 3780334108 },
           u.default.createElement(
             'h2',
-            { className: 'title', 'data-jsx': 2116823082 },
+            { className: 'title', 'data-jsx': 3780334108 },
             e.children
           ),
           u.default.createElement(a.default, {
-            styleId: 2116823082,
+            styleId: 3780334108,
             css:
-              '.header[data-jsx="2116823082"]{-webkit-text-align:center;text-align:center;margin-bottom:50px}.title[data-jsx="2116823082"]{font-size:50px}'
+              '.header[data-jsx="3780334108"]{-webkit-text-align:center;text-align:center;margin-bottom:2em;font-size:2rem}.title[data-jsx="3780334108"]{font-size:1.125em}@media screen and (min-width:769px){.title[data-jsx="3780334108"]{font-size:1.5em}}'
           })
         )
       }
@@ -7571,23 +7589,21 @@ webpackJsonp(
       var o = n(3),
         a = r(o),
         i = n(0),
-        u = r(i)
+        u = r(i),
+        s = n(65),
+        l = r(s)
       t.default = function(e) {
         return u.default.createElement(
           'section',
           {
             className: (e.className ? e.className + ' ' : '') + 'section',
-            'data-jsx': 597402281
+            'data-jsx': 229434323
           },
-          u.default.createElement(
-            'div',
-            { className: 'section-inner', 'data-jsx': 597402281 },
-            e.children
-          ),
+          u.default.createElement(l.default, null, e.children),
           u.default.createElement(a.default, {
-            styleId: 597402281,
+            styleId: 229434323,
             css:
-              '.section[data-jsx="597402281"]{position:relative;margin:100px auto 0 auto;z-index:2}.section-inner[data-jsx="597402281"]{position:relative;width:1024px;max-width:100%;margin:0 auto;z-index:3}'
+              '.section[data-jsx="229434323"]{padding:3em 0;max-width:56em;margin:0 auto}@media screen and (min-width:769px){.section[data-jsx="229434323"]{padding:5em 0}}'
           })
         )
       }
@@ -7605,40 +7621,41 @@ webpackJsonp(
       t.default = function(e) {
         return u.default.createElement(
           'div',
-          { 'data-jsx': 4235390307 },
+          { className: 'start', 'data-jsx': 4209171030 },
           u.default.createElement(
             'pre',
-            { 'data-jsx': 4235390307 },
+            { 'data-jsx': 4209171030 },
             u.default.createElement(
               'code',
-              { className: 'start-code', 'data-jsx': 4235390307 },
+              { className: 'start__code', 'data-jsx': 4209171030 },
               'npm install electron-prebuilt'
             )
           ),
           u.default.createElement(
             'p',
-            { className: 'start-desc', 'data-jsx': 4235390307 },
+            { className: 'start-desc', 'data-jsx': 4209171030 },
             "If you know how to npm install, you know how to get started with Electron. You use the same tools you're used to in a web tech stack. Write JS in Node style and write UIs in HTML and CSS."
           ),
           u.default.createElement(
             'p',
-            { className: 'start-desc', 'data-jsx': 4235390307 },
-            'Jump right into coding the basics in the ',
+            { 'data-jsx': 4209171030 },
+            'Jump right into coding the basics in the',
+            ' ',
             u.default.createElement(
               'a',
               {
                 href:
                   'https://app.pluralsight.com/player?course=electron-fundamentals&author=jake-trent&name=electron-fundamentals-m2&clip=0&mode=live',
-                'data-jsx': 4235390307
+                'data-jsx': 4209171030
               },
               'second module'
             ),
             '.'
           ),
           u.default.createElement(a.default, {
-            styleId: 4235390307,
+            styleId: 4209171030,
             css:
-              '.start[data-jsx="4235390307"]{width:70vw}.start-code[data-jsx="4235390307"]{display:block;width:70%;margin:0 auto 40px auto;font-family:Menlo,          Monaco,          "Andale Mono",          "lucida console",          "Courier New",          monospace;background:#353B3C;border:3px solid white;border-radius:3px;padding:20px 10vw;-webkit-text-align:center;text-align:center}'
+              '.start__code[data-jsx="4209171030"]{display:block;max-width:100%;margin:0 auto 2.25em auto;font-family:Menlo,          Monaco,          "Andale Mono",          "lucida console",          "Courier New",          monospace;background:#353B3C;border:3px solid white;border-radius:3px;padding:1.125em;-webkit-text-align:center;text-align:center;overflow:hidden}@media screen and (min-width:769px){.start__code[data-jsx="4209171030"]{width:70vw}}'
           })
         )
       }
@@ -7656,75 +7673,75 @@ webpackJsonp(
         s = function(e) {
           return u.default.createElement(
             'ol',
-            { className: 'toc-list', 'data-jsx': 472603032 },
+            { className: 'toc-list', 'data-jsx': 3019445874 },
             e.children,
             u.default.createElement(a.default, {
-              styleId: 472603032,
+              styleId: 3019445874,
               css:
-                '.toc-list[data-jsx="472603032"]{list-style:none;width:60%;min-width:700px;margin:0 auto}'
+                '.toc-list[data-jsx="3019445874"]{font-size:1rem;list-style:none}'
             })
           )
         },
         l = function(e) {
           return u.default.createElement(
             'li',
-            { className: 'toc-item', 'data-jsx': 3740860056 },
+            { className: 'toc-item', 'data-jsx': 1625698949 },
             u.default.createElement(
               'div',
-              { className: 'toc-line', 'data-jsx': 3740860056 },
+              { className: 'toc-line', 'data-jsx': 1625698949 },
               u.default.createElement(
                 'h3',
-                { className: 'toc-title', 'data-jsx': 3740860056 },
+                { className: 'toc-title', 'data-jsx': 1625698949 },
                 u.default.createElement(
                   'a',
                   {
                     className: 'toc-link',
                     href: e.href,
-                    'data-jsx': 3740860056
+                    'data-jsx': 1625698949
                   },
                   e.title
                 )
               ),
               u.default.createElement(
                 'div',
-                { className: 'toc-len', 'data-jsx': 3740860056 },
+                { className: 'toc-len', 'data-jsx': 1625698949 },
                 e.length
               )
             ),
             u.default.createElement(
               'p',
-              { className: 'toc-desc', 'data-jsx': 3740860056 },
+              { className: 'toc-desc', 'data-jsx': 1625698949 },
               e.children
             ),
             u.default.createElement(a.default, {
-              styleId: 3740860056,
+              styleId: 1625698949,
               css:
-                '.toc-item[data-jsx="3740860056"]{margin-bottom:40px}.toc-line[data-jsx="3740860056"]{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center}.toc-title[data-jsx="3740860056"]{-webkit-flex:1;-ms-flex:1;flex:1;font-size:30px}.toc-link[data-jsx="3740860056"]{color:#0DB0C9}.toc-len[data-jsx="3740860056"]{font-size:20px;font-weight:100}'
+                '.toc-item[data-jsx="1625698949"]{margin-bottom:2.5em}.toc-line[data-jsx="1625698949"]{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center}.toc-title[data-jsx="1625698949"]{-webkit-flex:1;-ms-flex:1;flex:1;font-size:1.5em;margin-right:0.5em}.toc-link[data-jsx="1625698949"]{color:#0DB0C9}.toc-len[data-jsx="1625698949"]{font-size:1.25em;font-weight:100}@media screen and (min-width:769px){.toc-title[data-jsx="1625698949"]{font-size:2em}}'
             })
           )
         },
         c = function(e) {
           return u.default.createElement(
             'li',
-            { className: 'toc-item', 'data-jsx': 2653481833 },
+            { className: 'toc-item', 'data-jsx': 3081273486 },
             u.default.createElement(
               'div',
-              { className: 'toc-line', 'data-jsx': 2653481833 },
+              { className: 'toc-line', 'data-jsx': 3081273486 },
               u.default.createElement(
                 'div',
-                { className: 'toc-total', 'data-jsx': 2653481833 },
+                { className: 'toc-total', 'data-jsx': 3081273486 },
                 'Total time'
               ),
               u.default.createElement(
                 'div',
-                { className: 'toc-len', 'data-jsx': 2653481833 },
+                { className: 'toc-len', 'data-jsx': 3081273486 },
                 e.length
               )
             ),
             u.default.createElement(a.default, {
-              styleId: 2653481833,
+              styleId: 3081273486,
               css:
-                '.toc-item[data-jsx="2653481833"]{margin-bottom:40px}.toc-line[data-jsx="2653481833"]{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center}.toc-total[data-jsx="2653481833"]{-webkit-flex:1;-ms-flex:1;flex:1;font-size:20px;-webkit-text-align:right;text-align:right;padding-right:30px}.toc-len[data-jsx="2653481833"]{font-size:20px;font-weight:100}'
+                '.toc-line[data-jsx="3081273486"]{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center}.toc-total[data-jsx="3081273486"]{-webkit-flex:1;-ms-flex:1;flex:1;font-size:1.25em;-webkit-text-align:right;text-align:right;padding-right:1.125em}.toc-len[data-jsx="3081273486"]{font-size:1.375em;font-weight:100}'
             })
           )
         }
@@ -7743,36 +7760,36 @@ webpackJsonp(
       t.default = function(e) {
         return u.default.createElement(
           'div',
-          { className: 'fun-body', 'data-jsx': 2101884256 },
+          { className: 'fun-body', 'data-jsx': 314535735 },
           u.default.createElement(
             'p',
-            { className: 'fun-desc', 'data-jsx': 2101884256 },
+            { className: 'fun-desc', 'data-jsx': 314535735 },
             "It was fun to make. I think it'll be fun for you to watch and code. Let's learn a bit together.",
             ' '
           ),
           u.default.createElement(
             'div',
-            { className: 'fun-links', 'data-jsx': 2101884256 },
+            { className: 'fun-links', 'data-jsx': 314535735 },
             u.default.createElement(
               'a',
               {
                 className: 'fun-link',
                 href:
                   'https://app.pluralsight.com/library/courses/electron-fundamentals/table-of-contents',
-                'data-jsx': 2101884256
+                'data-jsx': 314535735
               },
               'Watch the Electron course'
             ),
             u.default.createElement(
               'div',
-              { className: 'fun-meta', 'data-jsx': 2101884256 },
+              { className: 'fun-meta', 'data-jsx': 314535735 },
               'via Pluralsight'
             )
           ),
           u.default.createElement(a.default, {
-            styleId: 2101884256,
+            styleId: 314535735,
             css:
-              '.fun-body[data-jsx="2101884256"]{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;margin:0 auto;width:700px}.fun-desc[data-jsx="2101884256"]{-webkit-flex:1;-ms-flex:1;flex:1}.fun-links[data-jsx="2101884256"]{-webkit-flex:1;-ms-flex:1;flex:1;padding-left:20px}.fun-link[data-jsx="2101884256"]{display:block;padding:12px 22px;background:linear-gradient(0deg, #D1591A, #e56a2c);border-radius:3px;margin:0 0 8px 0;-webkit-text-align:center;text-align:center;border:none;font-size:20px}.fun-meta[data-jsx="2101884256"]{font-size:14px;-webkit-text-align:center;text-align:center}.fun-link[data-jsx="2101884256"]:hover{color:#fff;background:#E56A2C;border:none}'
+              '.fun-body[data-jsx="314535735"]{margin:0 auto;font-size:1.125rem}.fun-link[data-jsx="314535735"]{display:block;padding:0.875em 1.125em;background:linear-gradient(0deg, #D1591A, #e56a2c);border-radius:3px;margin:0 0 0.5em 0;-webkit-text-align:center;text-align:center;border:none;font-size:1.125em}.fun-meta[data-jsx="314535735"]{font-size:14px;-webkit-text-align:center;text-align:center}.fun-link[data-jsx="314535735"]:hover{color:#fff;background:#E56A2C;border:none}@media screen and (min-width:650px){.fun-body[data-jsx="314535735"]{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center}.fun-desc[data-jsx="314535735"]{-webkit-flex:1;-ms-flex:1;flex:1}.fun-links[data-jsx="314535735"]{-webkit-flex:1;-ms-flex:1;flex:1;margin-left:1em}}'
           })
         )
       }
@@ -7787,38 +7804,36 @@ webpackJsonp(
         a = r(o),
         i = n(63),
         u = r(i),
-        s = n(165),
+        s = n(166),
         l = r(s),
-        c = n(167),
+        c = n(168),
         f = r(c),
-        p = n(168),
+        p = n(169),
         d = r(p),
-        h = n(169),
+        h = n(170),
         m = r(h),
-        v = n(170),
+        v = n(172),
         y = r(v),
-        g = n(172),
+        g = n(171),
         _ = r(g),
-        x = n(171),
+        x = n(173),
         b = r(x),
-        E = n(173),
+        E = n(175),
         w = r(E),
-        C = n(175),
+        C = n(174),
         k = r(C),
-        T = n(174),
+        T = n(176),
         P = r(T),
-        O = n(176),
+        O = n(178),
         N = r(O),
-        S = n(178),
-        M = r(S),
-        A = function(e) {
+        S = function(e) {
           return new Date().getFullYear()
         }
       t.default = function(e) {
         return a.default.createElement(
           'div',
           null,
-          a.default.createElement(m.default, null),
+          a.default.createElement(d.default, null),
           a.default.createElement(
             u.default,
             null,
@@ -7847,7 +7862,7 @@ webpackJsonp(
             }),
             a.default.createElement('meta', {
               name: 'copyright',
-              content: A() + ' Jake Trent'
+              content: S() + ' Jake Trent'
             }),
             a.default.createElement('meta', {
               property: 'og:title',
@@ -7902,48 +7917,44 @@ webpackJsonp(
               rel: 'stylesheet'
             })
           ),
+          a.default.createElement(m.default, null),
           a.default.createElement(
-            f.default,
+            w.default,
             null,
-            a.default.createElement(y.default, null),
-            a.default.createElement(
-              k.default,
-              null,
-              a.default.createElement(P.default, null, "Things you'll learn"),
-              a.default.createElement(_.default, null)
-            ),
-            a.default.createElement(
-              k.default,
-              null,
-              a.default.createElement(P.default, null, 'Catch a preview'),
-              a.default.createElement(w.default, null)
-            ),
-            a.default.createElement(
-              k.default,
-              null,
-              a.default.createElement(P.default, null, 'Watch the course'),
-              a.default.createElement(M.default, null)
-            ),
-            a.default.createElement(
-              k.default,
-              null,
-              a.default.createElement(P.default, null, 'Easy to get started'),
-              a.default.createElement(N.default, null)
-            ),
-            a.default.createElement(
-              k.default,
-              null,
-              a.default.createElement(P.default, null, 'Awesome APIs to try'),
-              a.default.createElement(l.default, null)
-            ),
-            a.default.createElement(
-              k.default,
-              null,
-              a.default.createElement(P.default, null, 'Join the fun'),
-              a.default.createElement(b.default, null)
-            ),
-            a.default.createElement(d.default, null)
-          )
+            a.default.createElement(k.default, null, "Things you'll learn"),
+            a.default.createElement(y.default, null)
+          ),
+          a.default.createElement(
+            w.default,
+            null,
+            a.default.createElement(k.default, null, 'Catch a preview'),
+            a.default.createElement(b.default, null)
+          ),
+          a.default.createElement(
+            w.default,
+            null,
+            a.default.createElement(k.default, null, 'Watch the course'),
+            a.default.createElement(N.default, null)
+          ),
+          a.default.createElement(
+            w.default,
+            null,
+            a.default.createElement(k.default, null, 'Easy to get started'),
+            a.default.createElement(P.default, null)
+          ),
+          a.default.createElement(
+            w.default,
+            null,
+            a.default.createElement(k.default, null, 'Awesome APIs to try'),
+            a.default.createElement(l.default, null)
+          ),
+          a.default.createElement(
+            w.default,
+            null,
+            a.default.createElement(k.default, null, 'Join the fun'),
+            a.default.createElement(_.default, null)
+          ),
+          a.default.createElement(f.default, null)
         )
       }
     },
@@ -7972,9 +7983,9 @@ webpackJsonp(
         v = r(m),
         y = n(0),
         g = r(y),
-        _ = n(65),
+        _ = n(66),
         x = r(_),
-        b = n(151),
+        b = n(152),
         E = r(b),
         w = n(198),
         C = r(w),
@@ -8364,8 +8375,8 @@ webpackJsonp(
     },
     function(e, t, n) {
       'use strict'
-      var r = n(149),
-        o = n(150),
+      var r = n(150),
+        o = n(151),
         a = n(183)
       e.exports = function() {
         function e(e, t, n, r, i, u) {
@@ -8440,9 +8451,9 @@ webpackJsonp(
               return e > 65535 &&
                 (
                   (e -= 65536),
-                  (t += j(((e >>> 10) & 1023) | 55296)),
+                  (t += R(((e >>> 10) & 1023) | 55296)),
                   (e = 56320 | (1023 & e))
-                ), (t += j(e))
+                ), (t += R(e))
             }).join('')
           }
           function f(e) {
@@ -8456,12 +8467,12 @@ webpackJsonp(
           function d(e, t, n) {
             var r = 0
             for (
-              e = n ? R(e / k) : e >> 1, e += R(e / t);
+              e = n ? j(e / k) : e >> 1, e += j(e / t);
               e > (I * w) >> 1;
               r += b
             )
-              e = R(e / I)
-            return R(r + (I + 1) * e / (e + C))
+              e = j(e / I)
+            return j(r + (I + 1) * e / (e + C))
           }
           function h(e) {
             var t,
@@ -8486,15 +8497,15 @@ webpackJsonp(
                 a = y, u = 1, s = b;
                 o >= v && i('invalid-input'), (l = f(e.charCodeAt(o++))), (l >=
                   b ||
-                  l > R((x - y) / u)) &&
+                  l > j((x - y) / u)) &&
                   i('overflow'), (y += l * u), (p = s <= _
                   ? E
                   : s >= _ + w ? w : s - _), !(l < p);
                 s += b
               )
-                (h = b - p), u > R(x / h) && i('overflow'), (u *= h)
-              ;(t = m.length + 1), (_ = d(y - a, t, 0 == a)), R(y / t) >
-                x - g && i('overflow'), (g += R(y / t)), (y %= t), m.splice(
+                (h = b - p), u > j(x / h) && i('overflow'), (u *= h)
+              ;(t = m.length + 1), (_ = d(y - a, t, 0 == a)), j(y / t) >
+                x - g && i('overflow'), (g += j(y / t)), (y %= t), m.splice(
                 y++,
                 0,
                 g
@@ -8520,11 +8531,11 @@ webpackJsonp(
               _,
               C = []
             for (e = l(e), v = e.length, t = P, n = 0, a = T, u = 0; u < v; ++u)
-              (m = e[u]) < 128 && C.push(j(m))
+              (m = e[u]) < 128 && C.push(R(m))
             for (r = o = C.length, o && C.push(O); r < v; ) {
               for (s = x, u = 0; u < v; ++u) (m = e[u]) >= t && m < s && (s = m)
               for (
-                y = r + 1, s - t > R((x - n) / y) && i('overflow'), n +=
+                y = r + 1, s - t > j((x - n) / y) && i('overflow'), n +=
                   (s - t) * y, t = s, u = 0;
                 u < v;
                 ++u
@@ -8536,9 +8547,9 @@ webpackJsonp(
                     f += b
                   )
                     (_ = c - h), (g = b - h), C.push(
-                      j(p(h + _ % g, 0))
-                    ), (c = R(_ / g))
-                  C.push(j(p(c, 0))), (a = d(n, y, r == o)), (n = 0), ++r
+                      R(p(h + _ % g, 0))
+                    ), (c = j(_ / g))
+                  C.push(R(p(c, 0))), (a = d(n, y, r == o)), (n = 0), ++r
                 }
               ++n, ++t
             }
@@ -8578,8 +8589,8 @@ webpackJsonp(
               'invalid-input': 'Invalid input'
             },
             I = b - E,
-            R = Math.floor,
-            j = String.fromCharCode
+            j = Math.floor,
+            R = String.fromCharCode
           ;(_ = {
             version: '1.3.2',
             ucs2: { decode: l, encode: c },
@@ -8592,7 +8603,7 @@ webpackJsonp(
               return _
             }.call(t, n, t, e)) && (e.exports = o)
         })()
-      }.call(t, n(92)(e), n(66)))
+      }.call(t, n(93)(e), n(67)))
     },
     function(e, t, n) {
       'use strict'
@@ -9268,7 +9279,7 @@ webpackJsonp(
                         e.value), (A = Object.getOwnPropertyDescriptor(
                         e.constructor.prototype,
                         'value'
-                      )), Object.defineProperty(N, 'value', j), N.attachEvent
+                      )), Object.defineProperty(N, 'value', R), N.attachEvent
                         ? N.attachEvent('onpropertychange', p)
                         : N.addEventListener('propertychange', p, !1)
                     }
@@ -9363,12 +9374,12 @@ webpackJsonp(
                       (I =
                         T('change') &&
                         (!document.documentMode || document.documentMode > 8))
-                    var R = !1
+                    var j = !1
                     b.canUseDOM &&
-                      (R =
+                      (j =
                         T('input') &&
                         (!document.documentMode || document.documentMode > 11))
-                    var j = {
+                    var R = {
                       get: function() {
                         return A.get.call(this)
                       },
@@ -9387,7 +9398,7 @@ webpackJsonp(
                               r(u)
                                 ? I ? (a = s) : (i = l)
                                 : P(u)
-                                  ? R ? (a = d) : ((a = m), (i = h))
+                                  ? j ? (a = d) : ((a = m), (i = h))
                                   : v(u) && (a = y),
                               a
                             )
@@ -11672,8 +11683,8 @@ webpackJsonp(
                       M = e(43),
                       A = (e(58), e(61)),
                       I = e(68),
-                      R = (e(129), e(95)),
-                      j = (e(137), e(109), e(141), e(118), e(142), T),
+                      j = (e(129), e(95)),
+                      R = (e(137), e(109), e(141), e(118), e(142), T),
                       D = w.deleteListener,
                       L = P.getNodeFromInstance,
                       U = k.listenTo,
@@ -11810,7 +11821,7 @@ webpackJsonp(
                           else
                             d = h.createElementNS(i, this._currentElement.type)
                           P.precacheNode(this, d), (this._flags |=
-                            j.hasCachedChildNodes), this._hostParent ||
+                            R.hasCachedChildNodes), this._hostParent ||
                             E.setAttributeForRoot(d), this._updateDOMProperties(
                             null,
                             a,
@@ -11905,7 +11916,7 @@ webpackJsonp(
                         else {
                           var a = B[typeof t.children] ? t.children : null,
                             i = null != a ? null : t.children
-                          if (null != a) r = R(a)
+                          if (null != a) r = j(a)
                           else if (null != i) {
                             var u = this.mountChildren(i, e, n)
                             r = u.join('')
@@ -13487,7 +13498,7 @@ webpackJsonp(
                     }
                     function o(e) {
                       return e
-                        ? e.nodeType === R ? e.documentElement : e.firstChild
+                        ? e.nodeType === j ? e.documentElement : e.firstChild
                         : null
                     }
                     function a(e) {
@@ -13532,7 +13543,7 @@ webpackJsonp(
                     }
                     function s(e, t, n) {
                       for (
-                        C.unmountComponent(e, n), t.nodeType === R &&
+                        C.unmountComponent(e, n), t.nodeType === j &&
                           (t = t.documentElement);
                         t.lastChild;
 
@@ -13550,8 +13561,8 @@ webpackJsonp(
                       return !(
                         !e ||
                         (e.nodeType !== I &&
-                          e.nodeType !== R &&
-                          e.nodeType !== j)
+                          e.nodeType !== j &&
+                          e.nodeType !== R)
                       )
                     }
                     function f(e) {
@@ -13584,8 +13595,8 @@ webpackJsonp(
                       M = (e(142), m.ID_ATTRIBUTE_NAME),
                       A = m.ROOT_ATTRIBUTE_NAME,
                       I = 1,
-                      R = 9,
-                      j = 11,
+                      j = 9,
+                      R = 11,
                       D = {},
                       L = 1,
                       U = function() {
@@ -13698,9 +13709,9 @@ webpackJsonp(
                               f.substring(p - 20, p + 20) +
                               '\n (server) ' +
                               l.substring(p - 20, p + 20)
-                          t.nodeType === R && d('42', m)
+                          t.nodeType === j && d('42', m)
                         }
-                        if ((t.nodeType === R && d('43'), i.useCreateElement)) {
+                        if ((t.nodeType === j && d('43'), i.useCreateElement)) {
                           for (; t.lastChild; ) t.removeChild(t.lastChild)
                           h.insertTreeBefore(t, e, null)
                         } else N(t, e), g.precacheNode(n, t.firstChild)
@@ -17434,7 +17445,7 @@ webpackJsonp(
           } catch (e) {
             r.regeneratorRuntime = void 0
           }
-      }.call(t, n(66)))
+      }.call(t, n(67)))
     },
     function(e, t, n) {
       ;(function(t) {
@@ -17802,7 +17813,7 @@ webpackJsonp(
               ? window
               : 'object' == typeof self ? self : this
         )
-      }.call(t, n(66)))
+      }.call(t, n(67)))
     },
     function(e, t, n) {
       'use strict'
@@ -17891,9 +17902,9 @@ webpackJsonp(
         c = r(l),
         f = n(30),
         p = r(f),
-        d = n(67),
+        d = n(68),
         h = r(d),
-        m = n(68),
+        m = n(69),
         v = r(m),
         y = new v.default(),
         g = new v.default()
@@ -17978,7 +17989,7 @@ webpackJsonp(
       ;(t.default = o), (t.flushToHTML = a)
       var c = n(0),
         f = r(c),
-        p = n(91)
+        p = n(92)
     },
     function(e, t, n) {
       e.exports = n(197)
@@ -18099,9 +18110,9 @@ webpackJsonp(
             ) {
               var I = M[T]
               if (I && !I.match(g)) {
-                for (var R = '', j = 0, D = I.length; j < D; j++)
-                  I.charCodeAt(j) > 127 ? (R += 'x') : (R += I[j])
-                if (!R.match(g)) {
+                for (var j = '', R = 0, D = I.length; R < D; R++)
+                  I.charCodeAt(R) > 127 ? (j += 'x') : (j += I[R])
+                if (!j.match(g)) {
                   var L = M.slice(0, T),
                     U = M.slice(T + 1),
                     F = I.match(_)
@@ -18374,13 +18385,13 @@ webpackJsonp(
       e.exports = n(179)
     },
     function(e, t, n) {
-      e.exports = n(155)
-    },
-    function(e, t, n) {
-      e.exports = n(163)
+      e.exports = n(156)
     },
     function(e, t, n) {
       e.exports = n(164)
+    },
+    function(e, t, n) {
+      e.exports = n(165)
     }
   ]
 )
