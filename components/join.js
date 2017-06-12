@@ -10,7 +10,10 @@ export default _ =>
       in the library.{' '}
     </p>
     <div className="signup__links">
-      <a className="signup__link" href="http://bit.ly/jaketrent-pluralsight">
+      <a
+        className="signup__link"
+        href="http://bit.ly/pluralsight-create-the-future"
+      >
         Try Pluralsight
       </a>
       <div className="signup__meta">
