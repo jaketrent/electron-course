@@ -7,6 +7,7 @@ import GlobalStyles from '../components/global-styles'
 import Header from '../components/header'
 import Learn from '../components/learn'
 import Join from '../components/join'
+import Mail from '../components/mail'
 import Preview from '../components/preview'
 import Section from '../components/section'
 import SectionHeader from '../components/section-header'
@@ -96,8 +97,13 @@ export default _ =>
     </Section>
 
     <Section>
-      <SectionHeader>Join the fun</SectionHeader>
+      <SectionHeader>Start learning</SectionHeader>
       <Join />
+    </Section>
+
+    <Section>
+      <SectionHeader>Get new courses</SectionHeader>
+      <Mail />
     </Section>
 
     <Footer />
