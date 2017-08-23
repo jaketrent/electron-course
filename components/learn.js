@@ -9,7 +9,7 @@ export default _ =>
     <div className="learn__toc">
       <ToC.List>
         <ToC.Item
-          href="https://app.pluralsight.com/player?course=electron-fundamentals&author=jake-trent&name=electron-fundamentals-m1&clip=0&mode=live"
+          href="http://bit.ly/jaketrent-electroncourse-mod1"
           title="Learn About Electron"
           length="06:47"
         >
@@ -18,7 +18,7 @@ export default _ =>
           at.{' '}
         </ToC.Item>
         <ToC.Item
-          href="https://app.pluralsight.com/player?course=electron-fundamentals&author=jake-trent&name=electron-fundamentals-m2&clip=0&mode=live"
+          href="http://bit.ly/jaketrent-electroncourse-mod2"
           title="Try Out Electron"
           length="17:36"
         >
@@ -26,21 +26,21 @@ export default _ =>
           inter-process communication.
         </ToC.Item>
         <ToC.Item
-          href="https://app.pluralsight.com/player?course=electron-fundamentals&author=jake-trent&name=electron-fundamentals-m3&clip=0&mode=live"
+          href="http://bit.ly/jaketrent-electroncourse-mod3"
           title="Experiment with Native APIs"
           length="36:39"
         >
           Learn highlight Electron APIs. Use each in a small project.
         </ToC.Item>
         <ToC.Item
-          href="https://app.pluralsight.com/player?course=electron-fundamentals&author=jake-trent&name=electron-fundamentals-m4&clip=0&mode=live"
+          href="http://bit.ly/jaketrent-electroncourse-mod4"
           title="Make an Electron App"
           length="31:01"
         >
           Combine your Electron skills in a fun and interesting project.
         </ToC.Item>
         <ToC.Item
-          href="https://app.pluralsight.com/player?course=electron-fundamentals&author=jake-trent&name=electron-fundamentals-m5&clip=0&mode=live"
+          href="http://bit.ly/jaketrent-electroncourse-mod5"
           title="Package Native Apps"
           length="17:36"
         >
