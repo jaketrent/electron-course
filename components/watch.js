@@ -1,19 +1,14 @@
 export default _ =>
   <div className="fun-body">
     <p className="fun-desc">
-      It was fun to make. I think it'll be fun for you to watch and code.
-      Let's learn a bit together.{' '}
+      It was fun to make. I think it'll be fun for you to watch and code. Let's
+      learn a bit together.{' '}
     </p>
     <div className="fun-links">
-      <a
-        className="fun-link"
-        href="https://app.pluralsight.com/library/courses/electron-fundamentals/table-of-contents"
-      >
+      <a className="fun-link" href="http://bit.ly/jaketrent-electroncourse-toc">
         Watch the Electron course
       </a>
-      <div className="fun-meta">
-        via Pluralsight
-      </div>
+      <div className="fun-meta">via Pluralsight</div>
     </div>
     <style jsx>{`
       .fun-body {
@@ -23,7 +18,7 @@ export default _ =>
       .fun-link {
         display: block;
         padding: 0.875em 1.125em;
-        background: linear-gradient(0deg, #D1591A, #e56a2c);
+        background: linear-gradient(0deg, #d1591a, #e56a2c);
         border-radius: 3px;
         margin: 0 0 0.5em 0;
         text-align: center;
@@ -36,7 +31,7 @@ export default _ =>
       }
       .fun-link:hover {
         color: #fff;
-        background: #E56A2C;
+        background: #e56a2c;
         border: none;
       }
       @media screen and (min-width: 650px) {

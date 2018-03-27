@@ -2,23 +2,15 @@ export default _ =>
   <div className="signup">
     <p className="signup__desc">
       This course is offered as a part of the Pluralsight library. Pluralsight
-      is a great
-      platform for expanding your skills and gaining the knowledge that you
-      desire
-      to engage in new and interesting projects. Try this and many other
-      worthwhile courses
-      in the library.{' '}
+      is a great platform for expanding your skills and gaining the knowledge
+      that you desire to engage in new and interesting projects. Try this and
+      many other worthwhile courses in the library.{' '}
     </p>
     <div className="signup__links">
-      <a
-        className="signup__link"
-        href="http://bit.ly/pluralsight-create-the-future"
-      >
+      <a className="signup__link" href="http://bit.ly/pluralsight-trial">
         Try Pluralsight
       </a>
-      <div className="signup__meta">
-        10-day free trial
-      </div>
+      <div className="signup__meta">10-day free trial</div>
     </div>
     <style jsx>{`
       .signup {
@@ -36,7 +28,7 @@ export default _ =>
       .signup__link {
         display: inline-block;
         padding: 0.75em 2em;
-        background: linear-gradient(0deg, #D1591A, #e56a2c);
+        background: linear-gradient(0deg, #d1591a, #e56a2c);
         border-radius: 3px;
         margin: 0 0 0.5em 0;
         text-align: center;
@@ -45,7 +37,7 @@ export default _ =>
       }
       .signup__link:hover {
         color: #fff;
-        background: #E56A2C;
+        background: #e56a2c;
         border: none;
       }
       .signup__meta {

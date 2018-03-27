@@ -9,16 +9,15 @@ export default _ =>
     <div className="learn__toc">
       <ToC.List>
         <ToC.Item
-          href="http://bit.ly/jaketrent-electroncourse-mod1"
+          href="http://bit.ly/jaketrent-electroncourse-toc"
           title="Learn About Electron"
           length="06:47"
         >
           Determine what Electron is, where its sweet spot is, and what it's
-          best
-          at.{' '}
+          best at.{' '}
         </ToC.Item>
         <ToC.Item
-          href="http://bit.ly/jaketrent-electroncourse-mod2"
+          href="http://bit.ly/jaketrent-electroncourse-toc"
           title="Try Out Electron"
           length="17:36"
         >
@@ -26,21 +25,21 @@ export default _ =>
           inter-process communication.
         </ToC.Item>
         <ToC.Item
-          href="http://bit.ly/jaketrent-electroncourse-mod3"
+          href="http://bit.ly/jaketrent-electroncourse-toc"
           title="Experiment with Native APIs"
           length="36:39"
         >
           Learn highlight Electron APIs. Use each in a small project.
         </ToC.Item>
         <ToC.Item
-          href="http://bit.ly/jaketrent-electroncourse-mod4"
+          href="http://bit.ly/jaketrent-electroncourse-toc"
           title="Make an Electron App"
           length="31:01"
         >
           Combine your Electron skills in a fun and interesting project.
         </ToC.Item>
         <ToC.Item
-          href="http://bit.ly/jaketrent-electroncourse-mod5"
+          href="http://bit.ly/jaketrent-electroncourse-toc"
           title="Package Native Apps"
           length="17:36"
         >
