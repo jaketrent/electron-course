@@ -7398,35 +7398,35 @@ webpackJsonp(
       t.default = function(e) {
         return u.default.createElement(
           'div',
-          { className: 'signup', 'data-jsx': 4106933391 },
+          { className: 'signup', 'data-jsx': 319070575 },
           u.default.createElement(
             'p',
-            { className: 'signup__desc', 'data-jsx': 4106933391 },
+            { className: 'signup__desc', 'data-jsx': 319070575 },
             'This course is offered as a part of the Pluralsight library. Pluralsight is a great platform for expanding your skills and gaining the knowledge that you desire to engage in new and interesting projects. Try this and many other worthwhile courses in the library.',
             ' '
           ),
           u.default.createElement(
             'div',
-            { className: 'signup__links', 'data-jsx': 4106933391 },
+            { className: 'signup__links', 'data-jsx': 319070575 },
             u.default.createElement(
               'a',
               {
                 className: 'signup__link',
-                href: 'http://bit.ly/pluralsight-create-the-future',
-                'data-jsx': 4106933391
+                href: 'http://bit.ly/pluralsight-trial',
+                'data-jsx': 319070575
               },
               'Try Pluralsight'
             ),
             u.default.createElement(
               'div',
-              { className: 'signup__meta', 'data-jsx': 4106933391 },
+              { className: 'signup__meta', 'data-jsx': 319070575 },
               '10-day free trial'
             )
           ),
           u.default.createElement(a.default, {
-            styleId: 4106933391,
+            styleId: 319070575,
             css:
-              '.signup[data-jsx="4106933391"]{margin:0 auto}.signup__desc[data-jsx="4106933391"]{margin-bottom:2em}.signup__links[data-jsx="4106933391"]{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center}.signup__link[data-jsx="4106933391"]{display:inline-block;padding:0.75em 2em;background:linear-gradient(0deg, #D1591A, #e56a2c);border-radius:3px;margin:0 0 0.5em 0;-webkit-text-align:center;text-align:center;border:none;font-size:1.25em}.signup__link[data-jsx="4106933391"]:hover{color:#fff;background:#E56A2C;border:none}.signup__meta[data-jsx="4106933391"]{font-style:italic;font-size:0.8em}@media screen and (min-width:650px){.signup[data-jsx="4106933391"]{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center}.signup__desc[data-jsx="4106933391"]{-webkit-flex:2;-ms-flex:2;flex:2}.signup__links[data-jsx="4106933391"]{-webkit-flex:1;-ms-flex:1;flex:1;margin-left:1.25em}}'
+              '.signup[data-jsx="319070575"]{margin:0 auto}.signup__desc[data-jsx="319070575"]{margin-bottom:2em}.signup__links[data-jsx="319070575"]{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center}.signup__link[data-jsx="319070575"]{display:inline-block;padding:0.75em 2em;background:linear-gradient(0deg, #d1591a, #e56a2c);border-radius:3px;margin:0 0 0.5em 0;-webkit-text-align:center;text-align:center;border:none;font-size:1.25em}.signup__link[data-jsx="319070575"]:hover{color:#fff;background:#e56a2c;border:none}.signup__meta[data-jsx="319070575"]{font-style:italic;font-size:0.8em}@media screen and (min-width:650px){.signup[data-jsx="319070575"]{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center}.signup__desc[data-jsx="319070575"]{-webkit-flex:2;-ms-flex:2;flex:2}.signup__links[data-jsx="319070575"]{-webkit-flex:1;-ms-flex:1;flex:1;margin-left:1.25em}}'
           })
         )
       }
@@ -7463,8 +7463,7 @@ webpackJsonp(
               u.default.createElement(
                 f.default.Item,
                 {
-                  href:
-                    'https://app.pluralsight.com/player?course=electron-fundamentals&author=jake-trent&name=electron-fundamentals-m1&clip=0&mode=live',
+                  href: 'http://bit.ly/jaketrent-electroncourse-toc',
                   title: 'Learn About Electron',
                   length: '06:47'
                 },
@@ -7474,8 +7473,7 @@ webpackJsonp(
               u.default.createElement(
                 f.default.Item,
                 {
-                  href:
-                    'https://app.pluralsight.com/player?course=electron-fundamentals&author=jake-trent&name=electron-fundamentals-m2&clip=0&mode=live',
+                  href: 'http://bit.ly/jaketrent-electroncourse-toc',
                   title: 'Try Out Electron',
                   length: '17:36'
                 },
@@ -7484,8 +7482,7 @@ webpackJsonp(
               u.default.createElement(
                 f.default.Item,
                 {
-                  href:
-                    'https://app.pluralsight.com/player?course=electron-fundamentals&author=jake-trent&name=electron-fundamentals-m3&clip=0&mode=live',
+                  href: 'http://bit.ly/jaketrent-electroncourse-toc',
                   title: 'Experiment with Native APIs',
                   length: '36:39'
                 },
@@ -7494,8 +7491,7 @@ webpackJsonp(
               u.default.createElement(
                 f.default.Item,
                 {
-                  href:
-                    'https://app.pluralsight.com/player?course=electron-fundamentals&author=jake-trent&name=electron-fundamentals-m4&clip=0&mode=live',
+                  href: 'http://bit.ly/jaketrent-electroncourse-toc',
                   title: 'Make an Electron App',
                   length: '31:01'
                 },
@@ -7504,8 +7500,7 @@ webpackJsonp(
               u.default.createElement(
                 f.default.Item,
                 {
-                  href:
-                    'https://app.pluralsight.com/player?course=electron-fundamentals&author=jake-trent&name=electron-fundamentals-m5&clip=0&mode=live',
+                  href: 'http://bit.ly/jaketrent-electroncourse-toc',
                   title: 'Package Native Apps',
                   length: '17:36'
                 },
@@ -7699,41 +7694,40 @@ webpackJsonp(
       t.default = function(e) {
         return u.default.createElement(
           'div',
-          { className: 'start', 'data-jsx': 4209171030 },
+          { className: 'start', 'data-jsx': 1370011574 },
           u.default.createElement(
             'pre',
-            { 'data-jsx': 4209171030 },
+            { 'data-jsx': 1370011574 },
             u.default.createElement(
               'code',
-              { className: 'start__code', 'data-jsx': 4209171030 },
+              { className: 'start__code', 'data-jsx': 1370011574 },
               'npm install electron-prebuilt'
             )
           ),
           u.default.createElement(
             'p',
-            { className: 'start-desc', 'data-jsx': 4209171030 },
+            { className: 'start-desc', 'data-jsx': 1370011574 },
             "If you know how to npm install, you know how to get started with Electron. You use the same tools you're used to in a web tech stack. Write JS in Node style and write UIs in HTML and CSS."
           ),
           u.default.createElement(
             'p',
-            { 'data-jsx': 4209171030 },
+            { 'data-jsx': 1370011574 },
             'Jump right into coding the basics in the',
             ' ',
             u.default.createElement(
               'a',
               {
-                href:
-                  'https://app.pluralsight.com/player?course=electron-fundamentals&author=jake-trent&name=electron-fundamentals-m2&clip=0&mode=live',
-                'data-jsx': 4209171030
+                href: 'http://bit.ly/jaketrent-electroncourse-toc',
+                'data-jsx': 1370011574
               },
               'second module'
             ),
             '.'
           ),
           u.default.createElement(a.default, {
-            styleId: 4209171030,
+            styleId: 1370011574,
             css:
-              '.start__code[data-jsx="4209171030"]{display:block;max-width:100%;margin:0 auto 2.25em auto;font-family:Menlo,          Monaco,          "Andale Mono",          "lucida console",          "Courier New",          monospace;background:#353B3C;border:3px solid white;border-radius:3px;padding:1.125em;-webkit-text-align:center;text-align:center;overflow:hidden}@media screen and (min-width:769px){.start__code[data-jsx="4209171030"]{width:70vw}}'
+              ".start__code[data-jsx=\"1370011574\"]{display:block;max-width:100%;margin:0 auto 2.25em auto;font-family:Menlo,          Monaco,          'Andale Mono',          'lucida console',          'Courier New',          monospace;background:#353b3c;border:3px solid white;border-radius:3px;padding:1.125em;-webkit-text-align:center;text-align:center;overflow:hidden}@media screen and (min-width:769px){.start__code[data-jsx=\"1370011574\"]{width:70vw}}"
           })
         )
       }
@@ -7838,36 +7832,35 @@ webpackJsonp(
       t.default = function(e) {
         return u.default.createElement(
           'div',
-          { className: 'fun-body', 'data-jsx': 314535735 },
+          { className: 'fun-body', 'data-jsx': 371142935 },
           u.default.createElement(
             'p',
-            { className: 'fun-desc', 'data-jsx': 314535735 },
+            { className: 'fun-desc', 'data-jsx': 371142935 },
             "It was fun to make. I think it'll be fun for you to watch and code. Let's learn a bit together.",
             ' '
           ),
           u.default.createElement(
             'div',
-            { className: 'fun-links', 'data-jsx': 314535735 },
+            { className: 'fun-links', 'data-jsx': 371142935 },
             u.default.createElement(
               'a',
               {
                 className: 'fun-link',
-                href:
-                  'https://app.pluralsight.com/library/courses/electron-fundamentals/table-of-contents',
-                'data-jsx': 314535735
+                href: 'http://bit.ly/jaketrent-electroncourse-toc',
+                'data-jsx': 371142935
               },
               'Watch the Electron course'
             ),
             u.default.createElement(
               'div',
-              { className: 'fun-meta', 'data-jsx': 314535735 },
+              { className: 'fun-meta', 'data-jsx': 371142935 },
               'via Pluralsight'
             )
           ),
           u.default.createElement(a.default, {
-            styleId: 314535735,
+            styleId: 371142935,
             css:
-              '.fun-body[data-jsx="314535735"]{margin:0 auto;font-size:1.125rem}.fun-link[data-jsx="314535735"]{display:block;padding:0.875em 1.125em;background:linear-gradient(0deg, #D1591A, #e56a2c);border-radius:3px;margin:0 0 0.5em 0;-webkit-text-align:center;text-align:center;border:none;font-size:1.125em}.fun-meta[data-jsx="314535735"]{font-size:14px;-webkit-text-align:center;text-align:center}.fun-link[data-jsx="314535735"]:hover{color:#fff;background:#E56A2C;border:none}@media screen and (min-width:650px){.fun-body[data-jsx="314535735"]{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center}.fun-desc[data-jsx="314535735"]{-webkit-flex:1;-ms-flex:1;flex:1}.fun-links[data-jsx="314535735"]{-webkit-flex:1;-ms-flex:1;flex:1;margin-left:1em}}'
+              '.fun-body[data-jsx="371142935"]{margin:0 auto;font-size:1.125rem}.fun-link[data-jsx="371142935"]{display:block;padding:0.875em 1.125em;background:linear-gradient(0deg, #d1591a, #e56a2c);border-radius:3px;margin:0 0 0.5em 0;-webkit-text-align:center;text-align:center;border:none;font-size:1.125em}.fun-meta[data-jsx="371142935"]{font-size:14px;-webkit-text-align:center;text-align:center}.fun-link[data-jsx="371142935"]:hover{color:#fff;background:#e56a2c;border:none}@media screen and (min-width:650px){.fun-body[data-jsx="371142935"]{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center}.fun-desc[data-jsx="371142935"]{-webkit-flex:1;-ms-flex:1;flex:1}.fun-links[data-jsx="371142935"]{-webkit-flex:1;-ms-flex:1;flex:1;margin-left:1em}}'
           })
         )
       }
