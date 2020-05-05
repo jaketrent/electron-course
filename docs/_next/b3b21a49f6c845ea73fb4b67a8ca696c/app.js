@@ -8001,7 +8001,20 @@ webpackJsonp(
             k.default,
             null,
             a.default.createElement(P.default, null, 'Catch a preview'),
-            a.default.createElement(w.default, null)
+            a.default.createElement(w.default, null),
+            a.default.createElement(
+              'div',
+              {
+                style: {
+                  display: 'flex',
+                  justifyContent: 'center',
+                  margin: '20px'
+                }
+              },
+              a.default.createElement('img', {
+                src: 'https://cdn.jaketrent.com/supertest.jpg'
+              })
+            )
           ),
           a.default.createElement(
             k.default,
