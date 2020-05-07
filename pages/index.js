@@ -79,11 +79,6 @@ export default _ =>
     <Section>
       <SectionHeader>Catch a preview</SectionHeader>
       <Preview />
-      <div
-        style={{ display: 'flex', justifyContent: 'center', margin: '20px' }}
-      >
-        <img src="https://cdn.jaketrent.com/supertest.jpg" />
-      </div>
     </Section>
 
     <Section>
